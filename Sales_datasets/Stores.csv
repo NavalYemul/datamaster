@@ -1,0 +1,5021 @@
+store_id,store_name,city
+,Store_1,Chicago
+2.0,Store_2,Chicago
+3.0,Store_3,Los Angeles
+4.0,Store_4,Chicago
+5.0,Store_5,Phoenix
+6.0,Store_6,New York
+7.0,Store_7,New York
+8.0,Store_8,Phoenix
+9.0,Store_9,Phoenix
+10.0,Store_10,Phoenix
+11.0,Store_11,New York
+12.0,Store_12,New York
+,Store_13,New York
+14.0,Store_14,Phoenix
+15.0,Store_15,Phoenix
+16.0,Store_16,Los Angeles
+17.0,Store_17,Los Angeles
+18.0,Store_18,Los Angeles
+19.0,Store_19,Chicago
+20.0,Store_20,New York
+21.0,Store_21,New York
+22.0,Store_22,New York
+23.0,Store_23,Chicago
+,Store_24,Chicago
+25.0,Store_25,Houston
+26.0,Store_26,New York
+27.0,Store_27,New York
+,Store_28,New York
+29.0,Store_29,Chicago
+30.0,Store_30,New York
+31.0,Store_31,Los Angeles
+32.0,Store_32,Phoenix
+33.0,Store_33,Phoenix
+34.0,Store_34,Los Angeles
+35.0,Store_35,New York
+36.0,Store_36,Chicago
+37.0,Store_37,Chicago
+38.0,Store_38,Houston
+39.0,Store_39,Los Angeles
+40.0,Store_40,Phoenix
+41.0,Store_41,Phoenix
+42.0,Store_42,Houston
+43.0,Store_43,Phoenix
+44.0,Store_44,New York
+45.0,Store_45,Chicago
+46.0,Store_46,Los Angeles
+,Store_47,Los Angeles
+48.0,Store_48,New York
+49.0,Store_49,Los Angeles
+50.0,Store_50,New York
+51.0,Store_51,Phoenix
+52.0,Store_52,Houston
+53.0,Store_53,New York
+54.0,Store_54,Chicago
+,Store_55,New York
+56.0,Store_56,Houston
+57.0,Store_57,Houston
+58.0,Store_58,New York
+59.0,Store_59,Los Angeles
+60.0,Store_60,Los Angeles
+61.0,Store_61,Los Angeles
+62.0,Store_62,Phoenix
+63.0,Store_63,Chicago
+64.0,Store_64,Chicago
+65.0,Store_65,Chicago
+66.0,Store_66,Chicago
+67.0,Store_67,Chicago
+68.0,Store_68,Houston
+69.0,Store_69,Phoenix
+70.0,Store_70,Los Angeles
+71.0,Store_71,Chicago
+,Store_72,Houston
+73.0,Store_73,Phoenix
+74.0,Store_74,Phoenix
+75.0,Store_75,Los Angeles
+76.0,Store_76,Houston
+77.0,Store_77,Phoenix
+78.0,Store_78,Chicago
+79.0,Store_79,Phoenix
+80.0,Store_80,Houston
+81.0,Store_81,Los Angeles
+82.0,Store_82,Los Angeles
+83.0,Store_83,Houston
+84.0,Store_84,Los Angeles
+85.0,Store_85,Houston
+86.0,Store_86,New York
+87.0,Store_87,Chicago
+88.0,Store_88,New York
+89.0,Store_89,New York
+90.0,Store_90,Phoenix
+91.0,Store_91,New York
+92.0,Store_92,Los Angeles
+93.0,Store_93,Phoenix
+94.0,Store_94,New York
+95.0,Store_95,Phoenix
+96.0,Store_96,Los Angeles
+97.0,Store_97,Chicago
+98.0,Store_98,Los Angeles
+99.0,Store_99,Los Angeles
+100.0,Store_100,Chicago
+101.0,Store_101,Phoenix
+102.0,Store_102,New York
+103.0,Store_103,New York
+104.0,Store_104,Los Angeles
+105.0,Store_105,Houston
+106.0,Store_106,Los Angeles
+107.0,Store_107,Los Angeles
+108.0,Store_108,Los Angeles
+109.0,Store_109,Los Angeles
+110.0,Store_110,Los Angeles
+111.0,Store_111,Los Angeles
+112.0,Store_112,Phoenix
+113.0,Store_113,New York
+114.0,Store_114,Phoenix
+115.0,Store_115,Los Angeles
+116.0,Store_116,Houston
+117.0,Store_117,Chicago
+118.0,Store_118,New York
+119.0,Store_119,Phoenix
+120.0,Store_120,Houston
+121.0,Store_121,Houston
+122.0,Store_122,Houston
+123.0,Store_123,New York
+124.0,Store_124,Chicago
+125.0,Store_125,Houston
+126.0,Store_126,Los Angeles
+127.0,Store_127,Los Angeles
+128.0,Store_128,Phoenix
+129.0,Store_129,New York
+,Store_130,Los Angeles
+131.0,Store_131,Phoenix
+132.0,Store_132,Phoenix
+133.0,Store_133,Phoenix
+134.0,Store_134,Los Angeles
+,Store_135,Houston
+136.0,Store_136,Phoenix
+137.0,Store_137,Phoenix
+138.0,Store_138,Houston
+139.0,Store_139,Houston
+140.0,Store_140,Phoenix
+141.0,Store_141,Chicago
+142.0,Store_142,Chicago
+143.0,Store_143,Los Angeles
+144.0,Store_144,Chicago
+145.0,Store_145,Chicago
+146.0,Store_146,Chicago
+147.0,Store_147,Los Angeles
+148.0,Store_148,Los Angeles
+,Store_149,Houston
+150.0,Store_150,Chicago
+151.0,Store_151,New York
+152.0,Store_152,Houston
+153.0,Store_153,Chicago
+154.0,Store_154,Houston
+155.0,Store_155,Phoenix
+156.0,Store_156,Chicago
+157.0,Store_157,New York
+158.0,Store_158,Phoenix
+159.0,Store_159,Chicago
+160.0,Store_160,Houston
+161.0,Store_161,Phoenix
+162.0,Store_162,Phoenix
+163.0,Store_163,Phoenix
+164.0,Store_164,Chicago
+165.0,Store_165,Chicago
+166.0,Store_166,Phoenix
+167.0,Store_167,Los Angeles
+168.0,Store_168,Phoenix
+169.0,Store_169,Los Angeles
+170.0,Store_170,Houston
+171.0,Store_171,New York
+172.0,Store_172,Phoenix
+173.0,Store_173,Los Angeles
+174.0,Store_174,Phoenix
+175.0,Store_175,Los Angeles
+,Store_176,New York
+177.0,Store_177,Chicago
+178.0,Store_178,Phoenix
+179.0,Store_179,Los Angeles
+180.0,Store_180,New York
+181.0,Store_181,Phoenix
+182.0,Store_182,New York
+183.0,Store_183,Phoenix
+184.0,Store_184,New York
+185.0,Store_185,Phoenix
+186.0,Store_186,Phoenix
+187.0,Store_187,Phoenix
+188.0,Store_188,Phoenix
+189.0,Store_189,New York
+190.0,Store_190,New York
+191.0,Store_191,Los Angeles
+192.0,Store_192,Phoenix
+193.0,Store_193,Chicago
+194.0,Store_194,Los Angeles
+195.0,Store_195,Phoenix
+196.0,Store_196,New York
+,Store_197,New York
+198.0,Store_198,Houston
+199.0,Store_199,Phoenix
+200.0,Store_200,Los Angeles
+201.0,Store_201,New York
+202.0,Store_202,New York
+203.0,Store_203,Los Angeles
+204.0,Store_204,New York
+205.0,Store_205,Houston
+206.0,Store_206,Houston
+207.0,Store_207,Houston
+208.0,Store_208,Houston
+209.0,Store_209,Los Angeles
+210.0,Store_210,Phoenix
+211.0,Store_211,Houston
+212.0,Store_212,New York
+213.0,Store_213,Houston
+214.0,Store_214,Phoenix
+215.0,Store_215,Phoenix
+216.0,Store_216,Phoenix
+217.0,Store_217,Los Angeles
+218.0,Store_218,Chicago
+219.0,Store_219,Houston
+,Store_220,New York
+221.0,Store_221,Houston
+222.0,Store_222,New York
+223.0,Store_223,New York
+224.0,Store_224,Phoenix
+225.0,Store_225,New York
+,Store_226,New York
+227.0,Store_227,Los Angeles
+228.0,Store_228,Los Angeles
+229.0,Store_229,Houston
+230.0,Store_230,Phoenix
+231.0,Store_231,Los Angeles
+232.0,Store_232,Chicago
+,Store_233,Chicago
+234.0,Store_234,Chicago
+235.0,Store_235,Los Angeles
+236.0,Store_236,Los Angeles
+237.0,Store_237,Chicago
+238.0,Store_238,Los Angeles
+239.0,Store_239,Phoenix
+240.0,Store_240,Chicago
+241.0,Store_241,Phoenix
+242.0,Store_242,Chicago
+243.0,Store_243,New York
+244.0,Store_244,Los Angeles
+245.0,Store_245,New York
+246.0,Store_246,Phoenix
+247.0,Store_247,Los Angeles
+248.0,Store_248,Chicago
+249.0,Store_249,Los Angeles
+250.0,Store_250,Houston
+251.0,Store_251,Chicago
+252.0,Store_252,Houston
+253.0,Store_253,Chicago
+254.0,Store_254,Phoenix
+255.0,Store_255,Phoenix
+256.0,Store_256,Los Angeles
+,Store_257,Houston
+258.0,Store_258,New York
+259.0,Store_259,Phoenix
+260.0,Store_260,Chicago
+261.0,Store_261,New York
+262.0,Store_262,Houston
+263.0,Store_263,Los Angeles
+264.0,Store_264,Phoenix
+265.0,Store_265,Phoenix
+266.0,Store_266,Phoenix
+267.0,Store_267,Los Angeles
+268.0,Store_268,New York
+269.0,Store_269,Los Angeles
+270.0,Store_270,New York
+271.0,Store_271,Houston
+272.0,Store_272,Phoenix
+273.0,Store_273,Houston
+274.0,Store_274,Los Angeles
+275.0,Store_275,Phoenix
+276.0,Store_276,Phoenix
+277.0,Store_277,Houston
+278.0,Store_278,Houston
+279.0,Store_279,Phoenix
+280.0,Store_280,Houston
+281.0,Store_281,Phoenix
+282.0,Store_282,Los Angeles
+283.0,Store_283,Chicago
+284.0,Store_284,Houston
+285.0,Store_285,Los Angeles
+286.0,Store_286,Phoenix
+287.0,Store_287,Chicago
+288.0,Store_288,New York
+289.0,Store_289,Los Angeles
+290.0,Store_290,Los Angeles
+291.0,Store_291,Phoenix
+292.0,Store_292,Los Angeles
+293.0,Store_293,New York
+294.0,Store_294,New York
+295.0,Store_295,Houston
+296.0,Store_296,Phoenix
+297.0,Store_297,Chicago
+298.0,Store_298,Chicago
+299.0,Store_299,Chicago
+,Store_300,Chicago
+301.0,Store_301,Phoenix
+302.0,Store_302,Phoenix
+303.0,Store_303,Houston
+304.0,Store_304,Chicago
+305.0,Store_305,New York
+306.0,Store_306,New York
+307.0,Store_307,Houston
+308.0,Store_308,Houston
+309.0,Store_309,Chicago
+310.0,Store_310,Chicago
+311.0,Store_311,Houston
+312.0,Store_312,Los Angeles
+313.0,Store_313,Houston
+314.0,Store_314,New York
+315.0,Store_315,Los Angeles
+316.0,Store_316,Los Angeles
+317.0,Store_317,Los Angeles
+318.0,Store_318,Phoenix
+319.0,Store_319,Chicago
+,Store_320,Chicago
+321.0,Store_321,Houston
+322.0,Store_322,Phoenix
+323.0,Store_323,New York
+324.0,Store_324,Houston
+325.0,Store_325,Los Angeles
+326.0,Store_326,Chicago
+327.0,Store_327,New York
+328.0,Store_328,Los Angeles
+329.0,Store_329,Los Angeles
+330.0,Store_330,Chicago
+331.0,Store_331,Chicago
+332.0,Store_332,Chicago
+333.0,Store_333,New York
+334.0,Store_334,Phoenix
+335.0,Store_335,Houston
+336.0,Store_336,New York
+337.0,Store_337,Chicago
+338.0,Store_338,Houston
+339.0,Store_339,Los Angeles
+340.0,Store_340,New York
+341.0,Store_341,Phoenix
+342.0,Store_342,Los Angeles
+343.0,Store_343,Phoenix
+344.0,Store_344,Phoenix
+345.0,Store_345,Los Angeles
+346.0,Store_346,Phoenix
+347.0,Store_347,Los Angeles
+348.0,Store_348,Houston
+349.0,Store_349,Los Angeles
+350.0,Store_350,New York
+351.0,Store_351,Los Angeles
+352.0,Store_352,Los Angeles
+353.0,Store_353,Phoenix
+354.0,Store_354,Los Angeles
+355.0,Store_355,Phoenix
+356.0,Store_356,Chicago
+357.0,Store_357,New York
+358.0,Store_358,New York
+359.0,Store_359,Chicago
+360.0,Store_360,Chicago
+361.0,Store_361,Phoenix
+362.0,Store_362,Los Angeles
+363.0,Store_363,New York
+364.0,Store_364,New York
+365.0,Store_365,Los Angeles
+366.0,Store_366,Phoenix
+367.0,Store_367,New York
+368.0,Store_368,Chicago
+369.0,Store_369,Phoenix
+370.0,Store_370,Houston
+371.0,Store_371,Phoenix
+372.0,Store_372,New York
+373.0,Store_373,Chicago
+374.0,Store_374,New York
+375.0,Store_375,Los Angeles
+376.0,Store_376,Los Angeles
+377.0,Store_377,Los Angeles
+,Store_378,New York
+379.0,Store_379,New York
+380.0,Store_380,Houston
+381.0,Store_381,Phoenix
+,Store_382,Houston
+383.0,Store_383,Houston
+384.0,Store_384,Houston
+385.0,Store_385,New York
+386.0,Store_386,Houston
+387.0,Store_387,New York
+388.0,Store_388,New York
+389.0,Store_389,New York
+390.0,Store_390,Los Angeles
+391.0,Store_391,Phoenix
+392.0,Store_392,New York
+393.0,Store_393,Houston
+394.0,Store_394,Phoenix
+395.0,Store_395,Houston
+396.0,Store_396,New York
+397.0,Store_397,Houston
+398.0,Store_398,Chicago
+399.0,Store_399,Los Angeles
+400.0,Store_400,Chicago
+401.0,Store_401,Chicago
+402.0,Store_402,Los Angeles
+403.0,Store_403,New York
+404.0,Store_404,Houston
+405.0,Store_405,New York
+406.0,Store_406,Chicago
+407.0,Store_407,Phoenix
+408.0,Store_408,New York
+409.0,Store_409,Chicago
+410.0,Store_410,Los Angeles
+411.0,Store_411,Chicago
+412.0,Store_412,Los Angeles
+413.0,Store_413,Phoenix
+414.0,Store_414,New York
+415.0,Store_415,New York
+416.0,Store_416,Chicago
+417.0,Store_417,Phoenix
+418.0,Store_418,Chicago
+419.0,Store_419,Houston
+420.0,Store_420,Houston
+,Store_421,Phoenix
+422.0,Store_422,Phoenix
+423.0,Store_423,New York
+424.0,Store_424,Phoenix
+425.0,Store_425,Phoenix
+426.0,Store_426,Los Angeles
+427.0,Store_427,Los Angeles
+428.0,Store_428,Chicago
+429.0,Store_429,Los Angeles
+430.0,Store_430,Phoenix
+431.0,Store_431,Houston
+432.0,Store_432,Houston
+433.0,Store_433,Houston
+434.0,Store_434,Houston
+435.0,Store_435,Phoenix
+436.0,Store_436,Houston
+437.0,Store_437,Houston
+438.0,Store_438,New York
+439.0,Store_439,New York
+440.0,Store_440,Los Angeles
+441.0,Store_441,Phoenix
+442.0,Store_442,Los Angeles
+443.0,Store_443,Phoenix
+444.0,Store_444,Phoenix
+445.0,Store_445,New York
+,Store_446,Los Angeles
+447.0,Store_447,Houston
+448.0,Store_448,Houston
+449.0,Store_449,Phoenix
+450.0,Store_450,Phoenix
+451.0,Store_451,Houston
+452.0,Store_452,Houston
+453.0,Store_453,Phoenix
+454.0,Store_454,Houston
+455.0,Store_455,Chicago
+456.0,Store_456,Houston
+457.0,Store_457,Chicago
+458.0,Store_458,Phoenix
+459.0,Store_459,Phoenix
+460.0,Store_460,Chicago
+461.0,Store_461,Houston
+462.0,Store_462,Phoenix
+463.0,Store_463,Los Angeles
+464.0,Store_464,New York
+465.0,Store_465,Phoenix
+,Store_466,Phoenix
+467.0,Store_467,Houston
+468.0,Store_468,New York
+469.0,Store_469,Houston
+470.0,Store_470,Los Angeles
+471.0,Store_471,New York
+,Store_472,Phoenix
+473.0,Store_473,Phoenix
+474.0,Store_474,New York
+475.0,Store_475,New York
+476.0,Store_476,Phoenix
+477.0,Store_477,New York
+478.0,Store_478,New York
+479.0,Store_479,Los Angeles
+480.0,Store_480,New York
+481.0,Store_481,New York
+482.0,Store_482,New York
+483.0,Store_483,Los Angeles
+484.0,Store_484,Houston
+485.0,Store_485,Houston
+486.0,Store_486,New York
+487.0,Store_487,Phoenix
+488.0,Store_488,Chicago
+489.0,Store_489,New York
+490.0,Store_490,Los Angeles
+491.0,Store_491,Chicago
+492.0,Store_492,New York
+493.0,Store_493,Los Angeles
+494.0,Store_494,Phoenix
+495.0,Store_495,Houston
+496.0,Store_496,New York
+497.0,Store_497,Phoenix
+498.0,Store_498,Chicago
+499.0,Store_499,Houston
+500.0,Store_500,Los Angeles
+501.0,Store_501,Houston
+502.0,Store_502,Phoenix
+503.0,Store_503,Chicago
+504.0,Store_504,Houston
+505.0,Store_505,Phoenix
+506.0,Store_506,Phoenix
+507.0,Store_507,New York
+508.0,Store_508,New York
+509.0,Store_509,New York
+510.0,Store_510,Los Angeles
+511.0,Store_511,Los Angeles
+512.0,Store_512,New York
+513.0,Store_513,Chicago
+514.0,Store_514,Phoenix
+515.0,Store_515,Houston
+516.0,Store_516,Phoenix
+517.0,Store_517,New York
+518.0,Store_518,Houston
+519.0,Store_519,New York
+520.0,Store_520,Los Angeles
+521.0,Store_521,Los Angeles
+522.0,Store_522,Chicago
+523.0,Store_523,Houston
+524.0,Store_524,Los Angeles
+525.0,Store_525,Houston
+526.0,Store_526,New York
+527.0,Store_527,Chicago
+528.0,Store_528,New York
+529.0,Store_529,Houston
+530.0,Store_530,Chicago
+531.0,Store_531,Houston
+532.0,Store_532,New York
+533.0,Store_533,New York
+534.0,Store_534,Phoenix
+535.0,Store_535,Phoenix
+536.0,Store_536,Phoenix
+537.0,Store_537,Phoenix
+538.0,Store_538,Chicago
+539.0,Store_539,New York
+540.0,Store_540,Los Angeles
+541.0,Store_541,Chicago
+542.0,Store_542,New York
+543.0,Store_543,Chicago
+544.0,Store_544,Chicago
+545.0,Store_545,Phoenix
+546.0,Store_546,Phoenix
+547.0,Store_547,Phoenix
+548.0,Store_548,New York
+549.0,Store_549,Chicago
+550.0,Store_550,Los Angeles
+551.0,Store_551,Los Angeles
+552.0,Store_552,Chicago
+553.0,Store_553,Houston
+554.0,Store_554,Phoenix
+555.0,Store_555,Phoenix
+556.0,Store_556,Los Angeles
+557.0,Store_557,Los Angeles
+558.0,Store_558,New York
+559.0,Store_559,Phoenix
+560.0,Store_560,Chicago
+561.0,Store_561,Los Angeles
+562.0,Store_562,Houston
+563.0,Store_563,Houston
+564.0,Store_564,Chicago
+565.0,Store_565,Houston
+566.0,Store_566,Phoenix
+567.0,Store_567,Phoenix
+568.0,Store_568,Phoenix
+569.0,Store_569,Phoenix
+570.0,Store_570,New York
+571.0,Store_571,Houston
+572.0,Store_572,New York
+573.0,Store_573,Los Angeles
+574.0,Store_574,New York
+575.0,Store_575,Houston
+576.0,Store_576,Houston
+577.0,Store_577,Houston
+578.0,Store_578,Los Angeles
+579.0,Store_579,Houston
+580.0,Store_580,Phoenix
+581.0,Store_581,Phoenix
+582.0,Store_582,Houston
+583.0,Store_583,Chicago
+584.0,Store_584,Houston
+585.0,Store_585,Los Angeles
+586.0,Store_586,Houston
+587.0,Store_587,New York
+588.0,Store_588,Chicago
+,Store_589,Phoenix
+590.0,Store_590,Houston
+591.0,Store_591,Los Angeles
+592.0,Store_592,Phoenix
+593.0,Store_593,New York
+594.0,Store_594,Los Angeles
+595.0,Store_595,Houston
+596.0,Store_596,Los Angeles
+597.0,Store_597,Los Angeles
+598.0,Store_598,Phoenix
+599.0,Store_599,Phoenix
+600.0,Store_600,Chicago
+601.0,Store_601,New York
+,Store_602,Houston
+603.0,Store_603,New York
+604.0,Store_604,Houston
+605.0,Store_605,Houston
+606.0,Store_606,Los Angeles
+607.0,Store_607,Los Angeles
+608.0,Store_608,Houston
+609.0,Store_609,Houston
+610.0,Store_610,New York
+611.0,Store_611,Houston
+612.0,Store_612,New York
+613.0,Store_613,Houston
+614.0,Store_614,New York
+615.0,Store_615,Los Angeles
+,Store_616,New York
+617.0,Store_617,New York
+618.0,Store_618,Phoenix
+619.0,Store_619,Houston
+620.0,Store_620,Los Angeles
+621.0,Store_621,Chicago
+622.0,Store_622,Los Angeles
+623.0,Store_623,Houston
+624.0,Store_624,Los Angeles
+625.0,Store_625,Los Angeles
+626.0,Store_626,Phoenix
+627.0,Store_627,Phoenix
+628.0,Store_628,New York
+629.0,Store_629,New York
+630.0,Store_630,Phoenix
+631.0,Store_631,Houston
+632.0,Store_632,New York
+633.0,Store_633,Houston
+634.0,Store_634,Chicago
+635.0,Store_635,Phoenix
+636.0,Store_636,Chicago
+637.0,Store_637,Chicago
+638.0,Store_638,Phoenix
+639.0,Store_639,New York
+640.0,Store_640,Houston
+641.0,Store_641,Houston
+642.0,Store_642,Phoenix
+643.0,Store_643,Phoenix
+644.0,Store_644,Houston
+645.0,Store_645,Chicago
+,Store_646,New York
+647.0,Store_647,Phoenix
+648.0,Store_648,New York
+649.0,Store_649,Houston
+650.0,Store_650,Los Angeles
+651.0,Store_651,New York
+652.0,Store_652,Chicago
+653.0,Store_653,Los Angeles
+654.0,Store_654,Chicago
+655.0,Store_655,Chicago
+656.0,Store_656,New York
+657.0,Store_657,Phoenix
+658.0,Store_658,Phoenix
+659.0,Store_659,New York
+660.0,Store_660,Chicago
+661.0,Store_661,Chicago
+662.0,Store_662,Chicago
+663.0,Store_663,Chicago
+664.0,Store_664,Chicago
+665.0,Store_665,New York
+666.0,Store_666,Phoenix
+667.0,Store_667,New York
+668.0,Store_668,New York
+669.0,Store_669,New York
+670.0,Store_670,New York
+671.0,Store_671,New York
+672.0,Store_672,Chicago
+673.0,Store_673,Los Angeles
+674.0,Store_674,Chicago
+675.0,Store_675,New York
+676.0,Store_676,Phoenix
+677.0,Store_677,Houston
+678.0,Store_678,Phoenix
+679.0,Store_679,New York
+680.0,Store_680,Phoenix
+681.0,Store_681,New York
+,Store_682,Phoenix
+683.0,Store_683,Los Angeles
+684.0,Store_684,Houston
+685.0,Store_685,Houston
+686.0,Store_686,New York
+687.0,Store_687,Los Angeles
+688.0,Store_688,Chicago
+,Store_689,Chicago
+690.0,Store_690,New York
+691.0,Store_691,Los Angeles
+692.0,Store_692,Chicago
+693.0,Store_693,Chicago
+694.0,Store_694,Chicago
+695.0,Store_695,Phoenix
+696.0,Store_696,Chicago
+697.0,Store_697,Chicago
+698.0,Store_698,Chicago
+699.0,Store_699,Chicago
+700.0,Store_700,Chicago
+701.0,Store_701,Phoenix
+702.0,Store_702,Chicago
+703.0,Store_703,Los Angeles
+704.0,Store_704,Phoenix
+705.0,Store_705,Houston
+706.0,Store_706,New York
+707.0,Store_707,Los Angeles
+708.0,Store_708,New York
+709.0,Store_709,Chicago
+710.0,Store_710,Phoenix
+,Store_711,Phoenix
+712.0,Store_712,Phoenix
+713.0,Store_713,Houston
+714.0,Store_714,New York
+715.0,Store_715,Los Angeles
+716.0,Store_716,Houston
+717.0,Store_717,New York
+718.0,Store_718,Houston
+719.0,Store_719,Houston
+720.0,Store_720,Los Angeles
+721.0,Store_721,Phoenix
+722.0,Store_722,Houston
+723.0,Store_723,Houston
+724.0,Store_724,Houston
+725.0,Store_725,New York
+726.0,Store_726,Los Angeles
+727.0,Store_727,New York
+728.0,Store_728,Chicago
+729.0,Store_729,Chicago
+730.0,Store_730,Los Angeles
+731.0,Store_731,Phoenix
+732.0,Store_732,Chicago
+733.0,Store_733,Phoenix
+734.0,Store_734,Phoenix
+735.0,Store_735,New York
+736.0,Store_736,Los Angeles
+737.0,Store_737,Chicago
+738.0,Store_738,New York
+,Store_739,Phoenix
+740.0,Store_740,Houston
+741.0,Store_741,Phoenix
+742.0,Store_742,Houston
+743.0,Store_743,New York
+744.0,Store_744,Houston
+745.0,Store_745,Houston
+746.0,Store_746,Chicago
+747.0,Store_747,Chicago
+748.0,Store_748,New York
+749.0,Store_749,Chicago
+750.0,Store_750,Phoenix
+751.0,Store_751,New York
+752.0,Store_752,Los Angeles
+753.0,Store_753,Houston
+754.0,Store_754,Houston
+755.0,Store_755,Phoenix
+756.0,Store_756,Chicago
+757.0,Store_757,Los Angeles
+758.0,Store_758,Chicago
+759.0,Store_759,Phoenix
+760.0,Store_760,Chicago
+761.0,Store_761,Chicago
+762.0,Store_762,Phoenix
+763.0,Store_763,Los Angeles
+764.0,Store_764,Houston
+765.0,Store_765,Houston
+766.0,Store_766,Phoenix
+,Store_767,Houston
+768.0,Store_768,Houston
+769.0,Store_769,Los Angeles
+770.0,Store_770,New York
+771.0,Store_771,Phoenix
+772.0,Store_772,Los Angeles
+773.0,Store_773,Los Angeles
+774.0,Store_774,Chicago
+775.0,Store_775,Phoenix
+776.0,Store_776,Phoenix
+777.0,Store_777,Chicago
+778.0,Store_778,Chicago
+779.0,Store_779,Houston
+780.0,Store_780,Los Angeles
+781.0,Store_781,Phoenix
+782.0,Store_782,Phoenix
+783.0,Store_783,Chicago
+784.0,Store_784,Los Angeles
+785.0,Store_785,Houston
+786.0,Store_786,New York
+787.0,Store_787,Los Angeles
+788.0,Store_788,Chicago
+789.0,Store_789,Phoenix
+790.0,Store_790,Houston
+791.0,Store_791,Chicago
+792.0,Store_792,Phoenix
+793.0,Store_793,Houston
+,Store_794,Houston
+795.0,Store_795,New York
+796.0,Store_796,Chicago
+797.0,Store_797,New York
+798.0,Store_798,New York
+799.0,Store_799,Los Angeles
+800.0,Store_800,Houston
+801.0,Store_801,Phoenix
+,Store_802,New York
+803.0,Store_803,Chicago
+804.0,Store_804,Phoenix
+805.0,Store_805,Los Angeles
+806.0,Store_806,New York
+807.0,Store_807,New York
+808.0,Store_808,Chicago
+809.0,Store_809,New York
+810.0,Store_810,Houston
+811.0,Store_811,New York
+812.0,Store_812,Los Angeles
+813.0,Store_813,Houston
+814.0,Store_814,Chicago
+815.0,Store_815,New York
+816.0,Store_816,Los Angeles
+817.0,Store_817,Phoenix
+818.0,Store_818,Phoenix
+819.0,Store_819,Los Angeles
+820.0,Store_820,Los Angeles
+821.0,Store_821,Los Angeles
+822.0,Store_822,New York
+823.0,Store_823,Houston
+824.0,Store_824,New York
+825.0,Store_825,Phoenix
+826.0,Store_826,Phoenix
+827.0,Store_827,Phoenix
+828.0,Store_828,Chicago
+829.0,Store_829,Houston
+830.0,Store_830,Chicago
+831.0,Store_831,Houston
+832.0,Store_832,Houston
+833.0,Store_833,Phoenix
+834.0,Store_834,New York
+835.0,Store_835,Phoenix
+836.0,Store_836,New York
+837.0,Store_837,Chicago
+838.0,Store_838,Los Angeles
+839.0,Store_839,Chicago
+840.0,Store_840,Los Angeles
+841.0,Store_841,Houston
+842.0,Store_842,Los Angeles
+843.0,Store_843,Phoenix
+844.0,Store_844,Phoenix
+845.0,Store_845,Los Angeles
+846.0,Store_846,Los Angeles
+847.0,Store_847,Los Angeles
+848.0,Store_848,Chicago
+849.0,Store_849,Houston
+850.0,Store_850,Phoenix
+851.0,Store_851,Los Angeles
+852.0,Store_852,Los Angeles
+853.0,Store_853,Phoenix
+854.0,Store_854,Los Angeles
+855.0,Store_855,Houston
+856.0,Store_856,Houston
+857.0,Store_857,Houston
+858.0,Store_858,Chicago
+859.0,Store_859,Chicago
+860.0,Store_860,Los Angeles
+861.0,Store_861,Phoenix
+,Store_862,Houston
+863.0,Store_863,New York
+,Store_864,New York
+865.0,Store_865,Chicago
+866.0,Store_866,New York
+,Store_867,Houston
+868.0,Store_868,New York
+869.0,Store_869,New York
+870.0,Store_870,New York
+871.0,Store_871,New York
+872.0,Store_872,Houston
+873.0,Store_873,Los Angeles
+874.0,Store_874,Chicago
+875.0,Store_875,Chicago
+876.0,Store_876,Los Angeles
+877.0,Store_877,Phoenix
+878.0,Store_878,New York
+879.0,Store_879,New York
+880.0,Store_880,New York
+881.0,Store_881,Houston
+882.0,Store_882,Los Angeles
+883.0,Store_883,Houston
+884.0,Store_884,Los Angeles
+885.0,Store_885,Phoenix
+886.0,Store_886,New York
+887.0,Store_887,New York
+,Store_888,Houston
+889.0,Store_889,Houston
+890.0,Store_890,Chicago
+891.0,Store_891,New York
+892.0,Store_892,Los Angeles
+893.0,Store_893,Los Angeles
+894.0,Store_894,New York
+895.0,Store_895,Phoenix
+896.0,Store_896,Phoenix
+897.0,Store_897,Phoenix
+898.0,Store_898,New York
+899.0,Store_899,Houston
+900.0,Store_900,Los Angeles
+901.0,Store_901,New York
+902.0,Store_902,New York
+903.0,Store_903,New York
+904.0,Store_904,New York
+905.0,Store_905,Phoenix
+906.0,Store_906,Los Angeles
+907.0,Store_907,Los Angeles
+908.0,Store_908,New York
+909.0,Store_909,Chicago
+910.0,Store_910,Houston
+911.0,Store_911,Houston
+912.0,Store_912,Los Angeles
+,Store_913,Phoenix
+914.0,Store_914,Houston
+915.0,Store_915,Phoenix
+,Store_916,Los Angeles
+917.0,Store_917,Phoenix
+918.0,Store_918,Chicago
+919.0,Store_919,Los Angeles
+920.0,Store_920,Los Angeles
+921.0,Store_921,Chicago
+922.0,Store_922,Houston
+923.0,Store_923,Houston
+924.0,Store_924,Phoenix
+925.0,Store_925,Chicago
+926.0,Store_926,Houston
+927.0,Store_927,Phoenix
+928.0,Store_928,New York
+929.0,Store_929,New York
+930.0,Store_930,Phoenix
+931.0,Store_931,Chicago
+932.0,Store_932,Houston
+933.0,Store_933,Los Angeles
+934.0,Store_934,Houston
+935.0,Store_935,Phoenix
+936.0,Store_936,Houston
+937.0,Store_937,Phoenix
+938.0,Store_938,Los Angeles
+939.0,Store_939,Los Angeles
+940.0,Store_940,New York
+941.0,Store_941,Phoenix
+942.0,Store_942,Phoenix
+943.0,Store_943,Houston
+944.0,Store_944,Houston
+945.0,Store_945,Chicago
+946.0,Store_946,Phoenix
+947.0,Store_947,Phoenix
+948.0,Store_948,New York
+949.0,Store_949,New York
+950.0,Store_950,Chicago
+951.0,Store_951,Phoenix
+952.0,Store_952,Houston
+953.0,Store_953,Los Angeles
+954.0,Store_954,Los Angeles
+955.0,Store_955,New York
+956.0,Store_956,Houston
+957.0,Store_957,Chicago
+958.0,Store_958,New York
+959.0,Store_959,Chicago
+960.0,Store_960,Los Angeles
+961.0,Store_961,Los Angeles
+962.0,Store_962,Los Angeles
+963.0,Store_963,Houston
+964.0,Store_964,New York
+965.0,Store_965,Los Angeles
+966.0,Store_966,Phoenix
+967.0,Store_967,Los Angeles
+968.0,Store_968,Los Angeles
+969.0,Store_969,New York
+970.0,Store_970,Phoenix
+971.0,Store_971,New York
+972.0,Store_972,Phoenix
+,Store_973,Phoenix
+974.0,Store_974,New York
+975.0,Store_975,Chicago
+976.0,Store_976,New York
+977.0,Store_977,New York
+978.0,Store_978,Los Angeles
+979.0,Store_979,Houston
+980.0,Store_980,Chicago
+981.0,Store_981,Houston
+982.0,Store_982,Houston
+983.0,Store_983,Phoenix
+984.0,Store_984,Chicago
+985.0,Store_985,Chicago
+986.0,Store_986,New York
+987.0,Store_987,Houston
+988.0,Store_988,Houston
+989.0,Store_989,New York
+990.0,Store_990,Houston
+991.0,Store_991,Chicago
+992.0,Store_992,Chicago
+993.0,Store_993,Phoenix
+994.0,Store_994,New York
+995.0,Store_995,New York
+996.0,Store_996,Los Angeles
+997.0,Store_997,Phoenix
+998.0,Store_998,Chicago
+999.0,Store_999,New York
+1000.0,Store_1000,New York
+1001.0,Store_1001,New York
+1002.0,Store_1002,Phoenix
+1003.0,Store_1003,Phoenix
+1004.0,Store_1004,Los Angeles
+1005.0,Store_1005,New York
+1006.0,Store_1006,Chicago
+1007.0,Store_1007,Los Angeles
+1008.0,Store_1008,Los Angeles
+1009.0,Store_1009,Los Angeles
+1010.0,Store_1010,Chicago
+1011.0,Store_1011,New York
+1012.0,Store_1012,Chicago
+1013.0,Store_1013,Phoenix
+1014.0,Store_1014,Phoenix
+1015.0,Store_1015,Chicago
+1016.0,Store_1016,Phoenix
+1017.0,Store_1017,Phoenix
+1018.0,Store_1018,Phoenix
+1019.0,Store_1019,Phoenix
+1020.0,Store_1020,Houston
+1021.0,Store_1021,Houston
+1022.0,Store_1022,Los Angeles
+1023.0,Store_1023,Houston
+1024.0,Store_1024,New York
+1025.0,Store_1025,Houston
+1026.0,Store_1026,Chicago
+,Store_1027,Los Angeles
+1028.0,Store_1028,Houston
+1029.0,Store_1029,Houston
+1030.0,Store_1030,Houston
+1031.0,Store_1031,Houston
+1032.0,Store_1032,New York
+1033.0,Store_1033,Los Angeles
+1034.0,Store_1034,New York
+,Store_1035,New York
+1036.0,Store_1036,Phoenix
+1037.0,Store_1037,Los Angeles
+1038.0,Store_1038,Phoenix
+1039.0,Store_1039,Phoenix
+1040.0,Store_1040,Los Angeles
+1041.0,Store_1041,Houston
+1042.0,Store_1042,Houston
+1043.0,Store_1043,Phoenix
+1044.0,Store_1044,Chicago
+1045.0,Store_1045,New York
+1046.0,Store_1046,Phoenix
+1047.0,Store_1047,Phoenix
+1048.0,Store_1048,Chicago
+1049.0,Store_1049,New York
+1050.0,Store_1050,Los Angeles
+1051.0,Store_1051,Phoenix
+1052.0,Store_1052,Phoenix
+1053.0,Store_1053,New York
+1054.0,Store_1054,Houston
+1055.0,Store_1055,Phoenix
+1056.0,Store_1056,New York
+,Store_1057,New York
+1058.0,Store_1058,Houston
+1059.0,Store_1059,Phoenix
+1060.0,Store_1060,Phoenix
+1061.0,Store_1061,Phoenix
+1062.0,Store_1062,Chicago
+1063.0,Store_1063,Chicago
+1064.0,Store_1064,Chicago
+1065.0,Store_1065,Chicago
+1066.0,Store_1066,New York
+1067.0,Store_1067,Houston
+1068.0,Store_1068,Phoenix
+1069.0,Store_1069,Chicago
+1070.0,Store_1070,Houston
+1071.0,Store_1071,New York
+1072.0,Store_1072,Phoenix
+1073.0,Store_1073,Houston
+1074.0,Store_1074,Houston
+1075.0,Store_1075,Phoenix
+1076.0,Store_1076,Chicago
+1077.0,Store_1077,Los Angeles
+1078.0,Store_1078,New York
+1079.0,Store_1079,Phoenix
+,Store_1080,Los Angeles
+1081.0,Store_1081,Phoenix
+1082.0,Store_1082,Houston
+1083.0,Store_1083,Los Angeles
+1084.0,Store_1084,New York
+1085.0,Store_1085,Houston
+1086.0,Store_1086,New York
+1087.0,Store_1087,Los Angeles
+1088.0,Store_1088,Chicago
+1089.0,Store_1089,New York
+1090.0,Store_1090,Phoenix
+1091.0,Store_1091,New York
+1092.0,Store_1092,Chicago
+1093.0,Store_1093,Chicago
+1094.0,Store_1094,New York
+1095.0,Store_1095,Los Angeles
+1096.0,Store_1096,Phoenix
+,Store_1097,Chicago
+1098.0,Store_1098,Los Angeles
+1099.0,Store_1099,Houston
+1100.0,Store_1100,Houston
+1101.0,Store_1101,New York
+1102.0,Store_1102,Houston
+1103.0,Store_1103,Chicago
+1104.0,Store_1104,Los Angeles
+1105.0,Store_1105,Houston
+1106.0,Store_1106,New York
+,Store_1107,Chicago
+,Store_1108,New York
+1109.0,Store_1109,Houston
+1110.0,Store_1110,Chicago
+1111.0,Store_1111,Phoenix
+1112.0,Store_1112,Los Angeles
+1113.0,Store_1113,Phoenix
+1114.0,Store_1114,Los Angeles
+1115.0,Store_1115,New York
+1116.0,Store_1116,Chicago
+1117.0,Store_1117,New York
+1118.0,Store_1118,Los Angeles
+1119.0,Store_1119,New York
+1120.0,Store_1120,New York
+1121.0,Store_1121,Houston
+,Store_1122,Los Angeles
+1123.0,Store_1123,Phoenix
+1124.0,Store_1124,Phoenix
+1125.0,Store_1125,Phoenix
+1126.0,Store_1126,Phoenix
+1127.0,Store_1127,New York
+1128.0,Store_1128,Phoenix
+1129.0,Store_1129,Chicago
+1130.0,Store_1130,New York
+1131.0,Store_1131,Chicago
+1132.0,Store_1132,Chicago
+1133.0,Store_1133,New York
+1134.0,Store_1134,Los Angeles
+1135.0,Store_1135,Houston
+1136.0,Store_1136,New York
+1137.0,Store_1137,Los Angeles
+,Store_1138,Los Angeles
+1139.0,Store_1139,Houston
+1140.0,Store_1140,Phoenix
+1141.0,Store_1141,Phoenix
+1142.0,Store_1142,Phoenix
+1143.0,Store_1143,Chicago
+1144.0,Store_1144,New York
+1145.0,Store_1145,Los Angeles
+1146.0,Store_1146,New York
+1147.0,Store_1147,Los Angeles
+1148.0,Store_1148,Chicago
+1149.0,Store_1149,Los Angeles
+1150.0,Store_1150,New York
+1151.0,Store_1151,New York
+1152.0,Store_1152,New York
+1153.0,Store_1153,Los Angeles
+1154.0,Store_1154,Los Angeles
+1155.0,Store_1155,New York
+1156.0,Store_1156,Houston
+1157.0,Store_1157,Los Angeles
+1158.0,Store_1158,Chicago
+1159.0,Store_1159,Chicago
+1160.0,Store_1160,Chicago
+1161.0,Store_1161,Phoenix
+1162.0,Store_1162,Phoenix
+1163.0,Store_1163,Los Angeles
+1164.0,Store_1164,Phoenix
+1165.0,Store_1165,Los Angeles
+1166.0,Store_1166,Chicago
+1167.0,Store_1167,Phoenix
+1168.0,Store_1168,New York
+1169.0,Store_1169,Houston
+,Store_1170,New York
+1171.0,Store_1171,Houston
+1172.0,Store_1172,Chicago
+1173.0,Store_1173,Los Angeles
+1174.0,Store_1174,Chicago
+1175.0,Store_1175,Chicago
+1176.0,Store_1176,Houston
+1177.0,Store_1177,Chicago
+1178.0,Store_1178,Houston
+1179.0,Store_1179,Chicago
+1180.0,Store_1180,New York
+1181.0,Store_1181,New York
+1182.0,Store_1182,New York
+1183.0,Store_1183,Los Angeles
+1184.0,Store_1184,Houston
+1185.0,Store_1185,Los Angeles
+1186.0,Store_1186,New York
+1187.0,Store_1187,Los Angeles
+1188.0,Store_1188,New York
+1189.0,Store_1189,Los Angeles
+1190.0,Store_1190,Los Angeles
+1191.0,Store_1191,Phoenix
+1192.0,Store_1192,Chicago
+1193.0,Store_1193,Chicago
+1194.0,Store_1194,New York
+1195.0,Store_1195,Chicago
+1196.0,Store_1196,Los Angeles
+1197.0,Store_1197,New York
+1198.0,Store_1198,Houston
+1199.0,Store_1199,Phoenix
+1200.0,Store_1200,Los Angeles
+1201.0,Store_1201,Houston
+1202.0,Store_1202,Houston
+1203.0,Store_1203,Chicago
+1204.0,Store_1204,Houston
+1205.0,Store_1205,Chicago
+1206.0,Store_1206,Los Angeles
+1207.0,Store_1207,Chicago
+1208.0,Store_1208,Chicago
+1209.0,Store_1209,Houston
+1210.0,Store_1210,New York
+1211.0,Store_1211,Los Angeles
+1212.0,Store_1212,Houston
+1213.0,Store_1213,Houston
+1214.0,Store_1214,New York
+1215.0,Store_1215,Los Angeles
+1216.0,Store_1216,Chicago
+1217.0,Store_1217,Phoenix
+1218.0,Store_1218,Houston
+1219.0,Store_1219,Houston
+1220.0,Store_1220,Phoenix
+1221.0,Store_1221,New York
+1222.0,Store_1222,Phoenix
+1223.0,Store_1223,Phoenix
+1224.0,Store_1224,New York
+1225.0,Store_1225,Los Angeles
+1226.0,Store_1226,Phoenix
+1227.0,Store_1227,New York
+1228.0,Store_1228,Chicago
+1229.0,Store_1229,Chicago
+1230.0,Store_1230,Chicago
+1231.0,Store_1231,New York
+1232.0,Store_1232,Phoenix
+1233.0,Store_1233,Houston
+1234.0,Store_1234,New York
+1235.0,Store_1235,Phoenix
+1236.0,Store_1236,Los Angeles
+,Store_1237,Phoenix
+1238.0,Store_1238,Houston
+1239.0,Store_1239,Los Angeles
+1240.0,Store_1240,Houston
+1241.0,Store_1241,Houston
+1242.0,Store_1242,New York
+1243.0,Store_1243,Houston
+1244.0,Store_1244,New York
+1245.0,Store_1245,Phoenix
+1246.0,Store_1246,Los Angeles
+1247.0,Store_1247,New York
+1248.0,Store_1248,Los Angeles
+1249.0,Store_1249,New York
+1250.0,Store_1250,Los Angeles
+1251.0,Store_1251,Chicago
+1252.0,Store_1252,Chicago
+1253.0,Store_1253,Los Angeles
+1254.0,Store_1254,New York
+1255.0,Store_1255,New York
+1256.0,Store_1256,Los Angeles
+,Store_1257,Phoenix
+1258.0,Store_1258,Phoenix
+1259.0,Store_1259,New York
+1260.0,Store_1260,Houston
+1261.0,Store_1261,Phoenix
+1262.0,Store_1262,Chicago
+1263.0,Store_1263,Phoenix
+1264.0,Store_1264,Houston
+1265.0,Store_1265,Chicago
+1266.0,Store_1266,Chicago
+,Store_1267,Chicago
+1268.0,Store_1268,Houston
+1269.0,Store_1269,Chicago
+,Store_1270,Chicago
+1271.0,Store_1271,Chicago
+1272.0,Store_1272,New York
+1273.0,Store_1273,Los Angeles
+1274.0,Store_1274,Los Angeles
+1275.0,Store_1275,Chicago
+1276.0,Store_1276,Los Angeles
+1277.0,Store_1277,Los Angeles
+1278.0,Store_1278,Chicago
+1279.0,Store_1279,Chicago
+1280.0,Store_1280,Houston
+1281.0,Store_1281,New York
+1282.0,Store_1282,New York
+1283.0,Store_1283,Houston
+1284.0,Store_1284,New York
+1285.0,Store_1285,Los Angeles
+1286.0,Store_1286,Los Angeles
+1287.0,Store_1287,Houston
+,Store_1288,Houston
+1289.0,Store_1289,Los Angeles
+1290.0,Store_1290,Houston
+1291.0,Store_1291,Los Angeles
+1292.0,Store_1292,Houston
+1293.0,Store_1293,Chicago
+1294.0,Store_1294,Los Angeles
+1295.0,Store_1295,Houston
+1296.0,Store_1296,Phoenix
+1297.0,Store_1297,Chicago
+1298.0,Store_1298,Houston
+1299.0,Store_1299,Los Angeles
+1300.0,Store_1300,Chicago
+1301.0,Store_1301,Phoenix
+1302.0,Store_1302,Houston
+1303.0,Store_1303,New York
+1304.0,Store_1304,Los Angeles
+1305.0,Store_1305,Phoenix
+1306.0,Store_1306,New York
+1307.0,Store_1307,Chicago
+1308.0,Store_1308,New York
+1309.0,Store_1309,Chicago
+1310.0,Store_1310,Houston
+1311.0,Store_1311,Phoenix
+1312.0,Store_1312,Los Angeles
+1313.0,Store_1313,Chicago
+1314.0,Store_1314,Houston
+,Store_1315,Houston
+1316.0,Store_1316,Los Angeles
+1317.0,Store_1317,New York
+,Store_1318,Houston
+1319.0,Store_1319,New York
+1320.0,Store_1320,New York
+1321.0,Store_1321,Houston
+1322.0,Store_1322,Phoenix
+,Store_1323,Chicago
+1324.0,Store_1324,Chicago
+1325.0,Store_1325,Chicago
+,Store_1326,Houston
+1327.0,Store_1327,Phoenix
+1328.0,Store_1328,Los Angeles
+1329.0,Store_1329,New York
+1330.0,Store_1330,Los Angeles
+1331.0,Store_1331,New York
+1332.0,Store_1332,Houston
+1333.0,Store_1333,Houston
+1334.0,Store_1334,New York
+1335.0,Store_1335,New York
+1336.0,Store_1336,New York
+,Store_1337,Phoenix
+1338.0,Store_1338,Phoenix
+1339.0,Store_1339,Phoenix
+1340.0,Store_1340,Phoenix
+1341.0,Store_1341,Los Angeles
+1342.0,Store_1342,Los Angeles
+1343.0,Store_1343,Chicago
+1344.0,Store_1344,New York
+1345.0,Store_1345,Phoenix
+1346.0,Store_1346,Chicago
+1347.0,Store_1347,New York
+1348.0,Store_1348,New York
+1349.0,Store_1349,Los Angeles
+1350.0,Store_1350,Houston
+1351.0,Store_1351,Houston
+1352.0,Store_1352,Chicago
+1353.0,Store_1353,New York
+1354.0,Store_1354,Chicago
+1355.0,Store_1355,Houston
+1356.0,Store_1356,Houston
+1357.0,Store_1357,Houston
+1358.0,Store_1358,Houston
+1359.0,Store_1359,Chicago
+,Store_1360,Phoenix
+1361.0,Store_1361,New York
+1362.0,Store_1362,Chicago
+1363.0,Store_1363,Houston
+1364.0,Store_1364,Los Angeles
+1365.0,Store_1365,Los Angeles
+1366.0,Store_1366,Chicago
+1367.0,Store_1367,Los Angeles
+1368.0,Store_1368,Houston
+1369.0,Store_1369,New York
+1370.0,Store_1370,Houston
+,Store_1371,New York
+1372.0,Store_1372,Chicago
+1373.0,Store_1373,Los Angeles
+,Store_1374,Chicago
+,Store_1375,Chicago
+1376.0,Store_1376,Houston
+1377.0,Store_1377,New York
+1378.0,Store_1378,Los Angeles
+,Store_1379,New York
+1380.0,Store_1380,New York
+1381.0,Store_1381,Houston
+1382.0,Store_1382,New York
+1383.0,Store_1383,Houston
+1384.0,Store_1384,New York
+1385.0,Store_1385,Phoenix
+1386.0,Store_1386,Chicago
+,Store_1387,Houston
+1388.0,Store_1388,Houston
+1389.0,Store_1389,Los Angeles
+1390.0,Store_1390,Phoenix
+1391.0,Store_1391,Los Angeles
+1392.0,Store_1392,Los Angeles
+1393.0,Store_1393,Chicago
+1394.0,Store_1394,Houston
+1395.0,Store_1395,New York
+1396.0,Store_1396,New York
+1397.0,Store_1397,Los Angeles
+1398.0,Store_1398,Phoenix
+1399.0,Store_1399,Chicago
+1400.0,Store_1400,Phoenix
+1401.0,Store_1401,Los Angeles
+1402.0,Store_1402,Phoenix
+1403.0,Store_1403,New York
+,Store_1404,Chicago
+1405.0,Store_1405,Chicago
+1406.0,Store_1406,Houston
+1407.0,Store_1407,Chicago
+1408.0,Store_1408,Chicago
+1409.0,Store_1409,Houston
+1410.0,Store_1410,Phoenix
+1411.0,Store_1411,Phoenix
+1412.0,Store_1412,Chicago
+1413.0,Store_1413,Los Angeles
+1414.0,Store_1414,Los Angeles
+1415.0,Store_1415,New York
+1416.0,Store_1416,Los Angeles
+1417.0,Store_1417,Phoenix
+1418.0,Store_1418,Los Angeles
+1419.0,Store_1419,Houston
+1420.0,Store_1420,Chicago
+1421.0,Store_1421,Phoenix
+1422.0,Store_1422,Los Angeles
+1423.0,Store_1423,Houston
+1424.0,Store_1424,Phoenix
+1425.0,Store_1425,Houston
+1426.0,Store_1426,Chicago
+1427.0,Store_1427,Los Angeles
+1428.0,Store_1428,Phoenix
+1429.0,Store_1429,Houston
+1430.0,Store_1430,New York
+1431.0,Store_1431,Chicago
+,Store_1432,New York
+1433.0,Store_1433,Houston
+1434.0,Store_1434,New York
+1435.0,Store_1435,New York
+1436.0,Store_1436,Chicago
+1437.0,Store_1437,Phoenix
+1438.0,Store_1438,Chicago
+,Store_1439,Los Angeles
+1440.0,Store_1440,New York
+1441.0,Store_1441,Houston
+1442.0,Store_1442,New York
+1443.0,Store_1443,Phoenix
+1444.0,Store_1444,Phoenix
+1445.0,Store_1445,Phoenix
+1446.0,Store_1446,Chicago
+1447.0,Store_1447,Phoenix
+1448.0,Store_1448,Houston
+1449.0,Store_1449,Phoenix
+1450.0,Store_1450,Phoenix
+1451.0,Store_1451,Los Angeles
+1452.0,Store_1452,New York
+1453.0,Store_1453,Phoenix
+1454.0,Store_1454,Los Angeles
+1455.0,Store_1455,Chicago
+1456.0,Store_1456,Houston
+1457.0,Store_1457,Phoenix
+1458.0,Store_1458,New York
+1459.0,Store_1459,Chicago
+1460.0,Store_1460,Los Angeles
+1461.0,Store_1461,Chicago
+1462.0,Store_1462,Los Angeles
+1463.0,Store_1463,New York
+1464.0,Store_1464,Chicago
+1465.0,Store_1465,Houston
+1466.0,Store_1466,Phoenix
+1467.0,Store_1467,Los Angeles
+1468.0,Store_1468,New York
+1469.0,Store_1469,New York
+1470.0,Store_1470,Houston
+1471.0,Store_1471,New York
+1472.0,Store_1472,Houston
+1473.0,Store_1473,Los Angeles
+1474.0,Store_1474,Phoenix
+1475.0,Store_1475,Chicago
+1476.0,Store_1476,Los Angeles
+1477.0,Store_1477,Chicago
+1478.0,Store_1478,Houston
+1479.0,Store_1479,Phoenix
+1480.0,Store_1480,Houston
+1481.0,Store_1481,Chicago
+1482.0,Store_1482,Houston
+1483.0,Store_1483,Houston
+1484.0,Store_1484,New York
+1485.0,Store_1485,Houston
+1486.0,Store_1486,Los Angeles
+1487.0,Store_1487,Chicago
+1488.0,Store_1488,Chicago
+,Store_1489,Chicago
+1490.0,Store_1490,Phoenix
+1491.0,Store_1491,New York
+1492.0,Store_1492,Los Angeles
+1493.0,Store_1493,Houston
+1494.0,Store_1494,Phoenix
+1495.0,Store_1495,Phoenix
+1496.0,Store_1496,Chicago
+1497.0,Store_1497,Phoenix
+1498.0,Store_1498,Phoenix
+1499.0,Store_1499,Los Angeles
+1500.0,Store_1500,Chicago
+1501.0,Store_1501,New York
+1502.0,Store_1502,Chicago
+1503.0,Store_1503,Chicago
+1504.0,Store_1504,Los Angeles
+1505.0,Store_1505,Los Angeles
+1506.0,Store_1506,New York
+1507.0,Store_1507,Houston
+1508.0,Store_1508,Houston
+1509.0,Store_1509,Houston
+1510.0,Store_1510,New York
+1511.0,Store_1511,Los Angeles
+1512.0,Store_1512,Phoenix
+1513.0,Store_1513,Houston
+1514.0,Store_1514,New York
+1515.0,Store_1515,New York
+1516.0,Store_1516,Chicago
+1517.0,Store_1517,Houston
+1518.0,Store_1518,New York
+1519.0,Store_1519,New York
+1520.0,Store_1520,Chicago
+,Store_1521,Houston
+1522.0,Store_1522,New York
+1523.0,Store_1523,New York
+1524.0,Store_1524,Los Angeles
+1525.0,Store_1525,Houston
+1526.0,Store_1526,Los Angeles
+1527.0,Store_1527,Los Angeles
+1528.0,Store_1528,Chicago
+,Store_1529,Houston
+1530.0,Store_1530,Houston
+1531.0,Store_1531,Chicago
+1532.0,Store_1532,Houston
+1533.0,Store_1533,Los Angeles
+1534.0,Store_1534,Los Angeles
+1535.0,Store_1535,Houston
+1536.0,Store_1536,New York
+1537.0,Store_1537,Los Angeles
+1538.0,Store_1538,Houston
+1539.0,Store_1539,Phoenix
+1540.0,Store_1540,Chicago
+1541.0,Store_1541,Chicago
+1542.0,Store_1542,Los Angeles
+1543.0,Store_1543,Phoenix
+1544.0,Store_1544,Houston
+1545.0,Store_1545,Phoenix
+1546.0,Store_1546,Phoenix
+,Store_1547,Houston
+1548.0,Store_1548,New York
+1549.0,Store_1549,Houston
+1550.0,Store_1550,New York
+1551.0,Store_1551,Los Angeles
+1552.0,Store_1552,Phoenix
+1553.0,Store_1553,Houston
+1554.0,Store_1554,Los Angeles
+1555.0,Store_1555,Chicago
+,Store_1556,New York
+,Store_1557,Houston
+1558.0,Store_1558,Chicago
+,Store_1559,New York
+1560.0,Store_1560,Phoenix
+1561.0,Store_1561,New York
+1562.0,Store_1562,Los Angeles
+,Store_1563,New York
+1564.0,Store_1564,Los Angeles
+1565.0,Store_1565,New York
+,Store_1566,Chicago
+1567.0,Store_1567,Phoenix
+1568.0,Store_1568,Los Angeles
+1569.0,Store_1569,Los Angeles
+1570.0,Store_1570,Houston
+1571.0,Store_1571,Los Angeles
+1572.0,Store_1572,Houston
+1573.0,Store_1573,Houston
+1574.0,Store_1574,Chicago
+1575.0,Store_1575,Los Angeles
+1576.0,Store_1576,Chicago
+1577.0,Store_1577,Los Angeles
+1578.0,Store_1578,Chicago
+1579.0,Store_1579,New York
+1580.0,Store_1580,Chicago
+1581.0,Store_1581,Chicago
+1582.0,Store_1582,New York
+1583.0,Store_1583,Phoenix
+1584.0,Store_1584,Chicago
+1585.0,Store_1585,Phoenix
+1586.0,Store_1586,Los Angeles
+1587.0,Store_1587,Houston
+1588.0,Store_1588,Houston
+1589.0,Store_1589,Houston
+1590.0,Store_1590,Phoenix
+1591.0,Store_1591,New York
+1592.0,Store_1592,Los Angeles
+1593.0,Store_1593,Chicago
+1594.0,Store_1594,Chicago
+1595.0,Store_1595,New York
+1596.0,Store_1596,New York
+1597.0,Store_1597,Phoenix
+1598.0,Store_1598,Los Angeles
+1599.0,Store_1599,Chicago
+1600.0,Store_1600,Houston
+1601.0,Store_1601,New York
+1602.0,Store_1602,Chicago
+1603.0,Store_1603,Phoenix
+,Store_1604,Houston
+1605.0,Store_1605,New York
+1606.0,Store_1606,Los Angeles
+1607.0,Store_1607,Chicago
+1608.0,Store_1608,New York
+1609.0,Store_1609,Phoenix
+1610.0,Store_1610,Los Angeles
+1611.0,Store_1611,Houston
+1612.0,Store_1612,Houston
+1613.0,Store_1613,New York
+,Store_1614,Los Angeles
+1615.0,Store_1615,Houston
+1616.0,Store_1616,Los Angeles
+1617.0,Store_1617,Phoenix
+1618.0,Store_1618,Houston
+1619.0,Store_1619,Chicago
+1620.0,Store_1620,Los Angeles
+1621.0,Store_1621,Chicago
+1622.0,Store_1622,Phoenix
+1623.0,Store_1623,New York
+1624.0,Store_1624,Phoenix
+1625.0,Store_1625,Los Angeles
+1626.0,Store_1626,Houston
+1627.0,Store_1627,Chicago
+1628.0,Store_1628,Chicago
+1629.0,Store_1629,Chicago
+,Store_1630,Chicago
+1631.0,Store_1631,New York
+1632.0,Store_1632,Phoenix
+,Store_1633,Phoenix
+1634.0,Store_1634,Houston
+1635.0,Store_1635,Los Angeles
+1636.0,Store_1636,Phoenix
+1637.0,Store_1637,Phoenix
+1638.0,Store_1638,Chicago
+1639.0,Store_1639,Los Angeles
+1640.0,Store_1640,Houston
+1641.0,Store_1641,Phoenix
+1642.0,Store_1642,Los Angeles
+1643.0,Store_1643,Houston
+1644.0,Store_1644,Houston
+1645.0,Store_1645,Houston
+1646.0,Store_1646,Los Angeles
+1647.0,Store_1647,Phoenix
+,Store_1648,Phoenix
+1649.0,Store_1649,New York
+1650.0,Store_1650,Chicago
+1651.0,Store_1651,New York
+1652.0,Store_1652,Phoenix
+1653.0,Store_1653,Houston
+1654.0,Store_1654,Houston
+1655.0,Store_1655,Phoenix
+1656.0,Store_1656,Houston
+1657.0,Store_1657,Chicago
+1658.0,Store_1658,Los Angeles
+1659.0,Store_1659,New York
+1660.0,Store_1660,Chicago
+1661.0,Store_1661,Chicago
+1662.0,Store_1662,Phoenix
+1663.0,Store_1663,New York
+1664.0,Store_1664,Phoenix
+1665.0,Store_1665,Phoenix
+1666.0,Store_1666,New York
+1667.0,Store_1667,Chicago
+1668.0,Store_1668,Houston
+1669.0,Store_1669,New York
+1670.0,Store_1670,Chicago
+1671.0,Store_1671,Phoenix
+1672.0,Store_1672,Los Angeles
+1673.0,Store_1673,Los Angeles
+1674.0,Store_1674,New York
+1675.0,Store_1675,Chicago
+,Store_1676,Phoenix
+1677.0,Store_1677,Chicago
+1678.0,Store_1678,Los Angeles
+1679.0,Store_1679,Los Angeles
+1680.0,Store_1680,Chicago
+1681.0,Store_1681,New York
+1682.0,Store_1682,Houston
+1683.0,Store_1683,Chicago
+1684.0,Store_1684,Houston
+1685.0,Store_1685,Chicago
+1686.0,Store_1686,Los Angeles
+1687.0,Store_1687,Houston
+1688.0,Store_1688,Chicago
+1689.0,Store_1689,Los Angeles
+1690.0,Store_1690,Houston
+,Store_1691,Phoenix
+1692.0,Store_1692,New York
+1693.0,Store_1693,Los Angeles
+1694.0,Store_1694,New York
+1695.0,Store_1695,Chicago
+1696.0,Store_1696,Phoenix
+1697.0,Store_1697,New York
+1698.0,Store_1698,Houston
+1699.0,Store_1699,Los Angeles
+1700.0,Store_1700,Los Angeles
+1701.0,Store_1701,New York
+1702.0,Store_1702,Los Angeles
+1703.0,Store_1703,New York
+,Store_1704,Phoenix
+1705.0,Store_1705,Houston
+1706.0,Store_1706,Phoenix
+1707.0,Store_1707,Phoenix
+1708.0,Store_1708,Los Angeles
+1709.0,Store_1709,Chicago
+1710.0,Store_1710,Houston
+1711.0,Store_1711,Houston
+1712.0,Store_1712,Houston
+1713.0,Store_1713,New York
+1714.0,Store_1714,Los Angeles
+1715.0,Store_1715,New York
+1716.0,Store_1716,New York
+1717.0,Store_1717,Los Angeles
+1718.0,Store_1718,Phoenix
+1719.0,Store_1719,Phoenix
+1720.0,Store_1720,New York
+1721.0,Store_1721,Los Angeles
+1722.0,Store_1722,Chicago
+1723.0,Store_1723,New York
+1724.0,Store_1724,Phoenix
+1725.0,Store_1725,Houston
+1726.0,Store_1726,Houston
+1727.0,Store_1727,Los Angeles
+1728.0,Store_1728,New York
+1729.0,Store_1729,Houston
+1730.0,Store_1730,Houston
+1731.0,Store_1731,New York
+1732.0,Store_1732,Chicago
+1733.0,Store_1733,New York
+1734.0,Store_1734,Houston
+1735.0,Store_1735,Chicago
+1736.0,Store_1736,New York
+1737.0,Store_1737,Chicago
+1738.0,Store_1738,Houston
+1739.0,Store_1739,Phoenix
+1740.0,Store_1740,Los Angeles
+1741.0,Store_1741,New York
+1742.0,Store_1742,New York
+1743.0,Store_1743,New York
+1744.0,Store_1744,Los Angeles
+1745.0,Store_1745,Chicago
+1746.0,Store_1746,Chicago
+1747.0,Store_1747,New York
+1748.0,Store_1748,Phoenix
+1749.0,Store_1749,New York
+1750.0,Store_1750,Phoenix
+1751.0,Store_1751,Phoenix
+1752.0,Store_1752,Chicago
+1753.0,Store_1753,New York
+1754.0,Store_1754,Houston
+1755.0,Store_1755,Phoenix
+1756.0,Store_1756,Chicago
+1757.0,Store_1757,Phoenix
+,Store_1758,Chicago
+1759.0,Store_1759,Los Angeles
+,Store_1760,Phoenix
+1761.0,Store_1761,Los Angeles
+,Store_1762,Los Angeles
+,Store_1763,Los Angeles
+1764.0,Store_1764,Phoenix
+1765.0,Store_1765,Houston
+1766.0,Store_1766,Phoenix
+1767.0,Store_1767,Chicago
+1768.0,Store_1768,Los Angeles
+1769.0,Store_1769,Los Angeles
+1770.0,Store_1770,Los Angeles
+1771.0,Store_1771,Chicago
+1772.0,Store_1772,New York
+1773.0,Store_1773,Houston
+1774.0,Store_1774,New York
+1775.0,Store_1775,Houston
+1776.0,Store_1776,Phoenix
+1777.0,Store_1777,Houston
+1778.0,Store_1778,Houston
+1779.0,Store_1779,Phoenix
+1780.0,Store_1780,Chicago
+1781.0,Store_1781,New York
+,Store_1782,Chicago
+1783.0,Store_1783,New York
+1784.0,Store_1784,Los Angeles
+1785.0,Store_1785,Houston
+1786.0,Store_1786,Houston
+1787.0,Store_1787,New York
+1788.0,Store_1788,Phoenix
+1789.0,Store_1789,Houston
+1790.0,Store_1790,Chicago
+1791.0,Store_1791,Los Angeles
+,Store_1792,Los Angeles
+1793.0,Store_1793,Chicago
+1794.0,Store_1794,Chicago
+1795.0,Store_1795,Houston
+1796.0,Store_1796,New York
+1797.0,Store_1797,Phoenix
+1798.0,Store_1798,Phoenix
+1799.0,Store_1799,Houston
+1800.0,Store_1800,Chicago
+,Store_1801,Los Angeles
+1802.0,Store_1802,Chicago
+1803.0,Store_1803,Los Angeles
+1804.0,Store_1804,Phoenix
+1805.0,Store_1805,Chicago
+1806.0,Store_1806,Chicago
+1807.0,Store_1807,New York
+1808.0,Store_1808,Houston
+1809.0,Store_1809,Houston
+1810.0,Store_1810,New York
+1811.0,Store_1811,Chicago
+1812.0,Store_1812,Chicago
+1813.0,Store_1813,New York
+1814.0,Store_1814,Phoenix
+1815.0,Store_1815,Phoenix
+1816.0,Store_1816,Houston
+1817.0,Store_1817,Los Angeles
+1818.0,Store_1818,Houston
+1819.0,Store_1819,Houston
+1820.0,Store_1820,New York
+1821.0,Store_1821,New York
+1822.0,Store_1822,New York
+1823.0,Store_1823,New York
+1824.0,Store_1824,New York
+1825.0,Store_1825,Houston
+1826.0,Store_1826,Los Angeles
+1827.0,Store_1827,Phoenix
+1828.0,Store_1828,Chicago
+,Store_1829,Houston
+1830.0,Store_1830,Los Angeles
+1831.0,Store_1831,Los Angeles
+1832.0,Store_1832,Chicago
+1833.0,Store_1833,Phoenix
+1834.0,Store_1834,Los Angeles
+1835.0,Store_1835,Chicago
+1836.0,Store_1836,Los Angeles
+1837.0,Store_1837,Houston
+1838.0,Store_1838,New York
+1839.0,Store_1839,Houston
+1840.0,Store_1840,Houston
+1841.0,Store_1841,Chicago
+1842.0,Store_1842,Houston
+1843.0,Store_1843,New York
+1844.0,Store_1844,Phoenix
+1845.0,Store_1845,Los Angeles
+1846.0,Store_1846,Chicago
+1847.0,Store_1847,Phoenix
+1848.0,Store_1848,Houston
+1849.0,Store_1849,Phoenix
+1850.0,Store_1850,Chicago
+1851.0,Store_1851,Los Angeles
+1852.0,Store_1852,New York
+1853.0,Store_1853,Houston
+1854.0,Store_1854,New York
+1855.0,Store_1855,Houston
+1856.0,Store_1856,Chicago
+1857.0,Store_1857,New York
+1858.0,Store_1858,Los Angeles
+1859.0,Store_1859,Houston
+1860.0,Store_1860,Los Angeles
+1861.0,Store_1861,Houston
+1862.0,Store_1862,New York
+1863.0,Store_1863,New York
+,Store_1864,Chicago
+1865.0,Store_1865,Houston
+1866.0,Store_1866,New York
+1867.0,Store_1867,Houston
+1868.0,Store_1868,Los Angeles
+1869.0,Store_1869,Chicago
+1870.0,Store_1870,Los Angeles
+1871.0,Store_1871,Phoenix
+1872.0,Store_1872,Los Angeles
+1873.0,Store_1873,Chicago
+1874.0,Store_1874,Houston
+1875.0,Store_1875,Los Angeles
+1876.0,Store_1876,Houston
+1877.0,Store_1877,Chicago
+1878.0,Store_1878,New York
+1879.0,Store_1879,Los Angeles
+1880.0,Store_1880,Houston
+1881.0,Store_1881,Phoenix
+1882.0,Store_1882,New York
+1883.0,Store_1883,Chicago
+1884.0,Store_1884,New York
+1885.0,Store_1885,New York
+1886.0,Store_1886,Chicago
+1887.0,Store_1887,Los Angeles
+1888.0,Store_1888,New York
+1889.0,Store_1889,Chicago
+1890.0,Store_1890,Phoenix
+1891.0,Store_1891,Phoenix
+,Store_1892,New York
+1893.0,Store_1893,Phoenix
+1894.0,Store_1894,Los Angeles
+1895.0,Store_1895,Chicago
+1896.0,Store_1896,Chicago
+1897.0,Store_1897,Chicago
+1898.0,Store_1898,Los Angeles
+1899.0,Store_1899,Houston
+1900.0,Store_1900,Phoenix
+1901.0,Store_1901,Phoenix
+1902.0,Store_1902,Houston
+1903.0,Store_1903,Chicago
+1904.0,Store_1904,Phoenix
+1905.0,Store_1905,New York
+1906.0,Store_1906,Los Angeles
+1907.0,Store_1907,Chicago
+1908.0,Store_1908,Los Angeles
+1909.0,Store_1909,Los Angeles
+1910.0,Store_1910,Chicago
+1911.0,Store_1911,Houston
+1912.0,Store_1912,Houston
+1913.0,Store_1913,Houston
+1914.0,Store_1914,Chicago
+1915.0,Store_1915,Houston
+1916.0,Store_1916,Houston
+1917.0,Store_1917,Chicago
+1918.0,Store_1918,Chicago
+,Store_1919,Los Angeles
+1920.0,Store_1920,Houston
+,Store_1921,New York
+1922.0,Store_1922,Houston
+1923.0,Store_1923,Houston
+1924.0,Store_1924,Los Angeles
+1925.0,Store_1925,Phoenix
+1926.0,Store_1926,Chicago
+1927.0,Store_1927,Houston
+1928.0,Store_1928,Phoenix
+1929.0,Store_1929,New York
+1930.0,Store_1930,Los Angeles
+1931.0,Store_1931,Chicago
+1932.0,Store_1932,Los Angeles
+1933.0,Store_1933,New York
+,Store_1934,Phoenix
+1935.0,Store_1935,Phoenix
+1936.0,Store_1936,Chicago
+1937.0,Store_1937,Chicago
+1938.0,Store_1938,Houston
+1939.0,Store_1939,Phoenix
+1940.0,Store_1940,Chicago
+1941.0,Store_1941,New York
+1942.0,Store_1942,Phoenix
+1943.0,Store_1943,Houston
+1944.0,Store_1944,New York
+1945.0,Store_1945,Los Angeles
+1946.0,Store_1946,Houston
+1947.0,Store_1947,Los Angeles
+1948.0,Store_1948,New York
+1949.0,Store_1949,Chicago
+1950.0,Store_1950,Los Angeles
+1951.0,Store_1951,New York
+1952.0,Store_1952,Houston
+1953.0,Store_1953,New York
+1954.0,Store_1954,Chicago
+1955.0,Store_1955,Los Angeles
+1956.0,Store_1956,Phoenix
+1957.0,Store_1957,Houston
+1958.0,Store_1958,Los Angeles
+1959.0,Store_1959,Chicago
+1960.0,Store_1960,Houston
+1961.0,Store_1961,Chicago
+1962.0,Store_1962,Los Angeles
+1963.0,Store_1963,Phoenix
+1964.0,Store_1964,New York
+1965.0,Store_1965,Houston
+1966.0,Store_1966,Los Angeles
+1967.0,Store_1967,Los Angeles
+1968.0,Store_1968,Houston
+1969.0,Store_1969,Los Angeles
+1970.0,Store_1970,Chicago
+1971.0,Store_1971,Los Angeles
+1972.0,Store_1972,New York
+1973.0,Store_1973,Houston
+1974.0,Store_1974,Phoenix
+1975.0,Store_1975,Chicago
+1976.0,Store_1976,Los Angeles
+1977.0,Store_1977,New York
+1978.0,Store_1978,Houston
+1979.0,Store_1979,Houston
+1980.0,Store_1980,New York
+1981.0,Store_1981,Los Angeles
+1982.0,Store_1982,Chicago
+1983.0,Store_1983,Phoenix
+1984.0,Store_1984,Houston
+1985.0,Store_1985,Los Angeles
+1986.0,Store_1986,Los Angeles
+1987.0,Store_1987,Houston
+1988.0,Store_1988,Phoenix
+1989.0,Store_1989,Houston
+1990.0,Store_1990,New York
+1991.0,Store_1991,New York
+1992.0,Store_1992,Chicago
+1993.0,Store_1993,New York
+1994.0,Store_1994,New York
+1995.0,Store_1995,Los Angeles
+1996.0,Store_1996,New York
+1997.0,Store_1997,Chicago
+1998.0,Store_1998,Los Angeles
+1999.0,Store_1999,Chicago
+2000.0,Store_2000,Houston
+2001.0,Store_2001,Los Angeles
+2002.0,Store_2002,New York
+2003.0,Store_2003,New York
+2004.0,Store_2004,Chicago
+2005.0,Store_2005,Phoenix
+2006.0,Store_2006,Phoenix
+2007.0,Store_2007,Chicago
+2008.0,Store_2008,Phoenix
+2009.0,Store_2009,Phoenix
+2010.0,Store_2010,Los Angeles
+2011.0,Store_2011,Houston
+2012.0,Store_2012,Houston
+2013.0,Store_2013,Phoenix
+2014.0,Store_2014,Los Angeles
+2015.0,Store_2015,Los Angeles
+2016.0,Store_2016,New York
+2017.0,Store_2017,Chicago
+2018.0,Store_2018,Chicago
+2019.0,Store_2019,New York
+2020.0,Store_2020,New York
+2021.0,Store_2021,Houston
+,Store_2022,Phoenix
+2023.0,Store_2023,Los Angeles
+2024.0,Store_2024,Phoenix
+2025.0,Store_2025,New York
+2026.0,Store_2026,Los Angeles
+2027.0,Store_2027,Phoenix
+2028.0,Store_2028,New York
+2029.0,Store_2029,Phoenix
+2030.0,Store_2030,Phoenix
+2031.0,Store_2031,Phoenix
+2032.0,Store_2032,Houston
+2033.0,Store_2033,Houston
+2034.0,Store_2034,New York
+,Store_2035,Los Angeles
+2036.0,Store_2036,Chicago
+2037.0,Store_2037,Phoenix
+2038.0,Store_2038,Phoenix
+2039.0,Store_2039,Phoenix
+2040.0,Store_2040,Phoenix
+2041.0,Store_2041,Chicago
+2042.0,Store_2042,Phoenix
+2043.0,Store_2043,Chicago
+2044.0,Store_2044,Houston
+2045.0,Store_2045,Houston
+2046.0,Store_2046,New York
+2047.0,Store_2047,Los Angeles
+2048.0,Store_2048,Los Angeles
+2049.0,Store_2049,Chicago
+2050.0,Store_2050,New York
+2051.0,Store_2051,New York
+2052.0,Store_2052,Los Angeles
+2053.0,Store_2053,New York
+2054.0,Store_2054,Chicago
+2055.0,Store_2055,Phoenix
+2056.0,Store_2056,Phoenix
+2057.0,Store_2057,New York
+2058.0,Store_2058,Chicago
+2059.0,Store_2059,Chicago
+2060.0,Store_2060,Chicago
+2061.0,Store_2061,New York
+2062.0,Store_2062,Phoenix
+2063.0,Store_2063,Phoenix
+2064.0,Store_2064,Chicago
+2065.0,Store_2065,Los Angeles
+2066.0,Store_2066,New York
+2067.0,Store_2067,Chicago
+2068.0,Store_2068,Los Angeles
+2069.0,Store_2069,Houston
+,Store_2070,Los Angeles
+2071.0,Store_2071,Chicago
+2072.0,Store_2072,Chicago
+2073.0,Store_2073,New York
+2074.0,Store_2074,Phoenix
+2075.0,Store_2075,Houston
+2076.0,Store_2076,Chicago
+2077.0,Store_2077,New York
+2078.0,Store_2078,Houston
+2079.0,Store_2079,Phoenix
+2080.0,Store_2080,New York
+2081.0,Store_2081,Chicago
+2082.0,Store_2082,Chicago
+2083.0,Store_2083,Houston
+2084.0,Store_2084,Houston
+,Store_2085,Houston
+2086.0,Store_2086,Houston
+2087.0,Store_2087,Houston
+2088.0,Store_2088,New York
+2089.0,Store_2089,Chicago
+,Store_2090,New York
+2091.0,Store_2091,Chicago
+2092.0,Store_2092,Houston
+2093.0,Store_2093,Houston
+2094.0,Store_2094,Chicago
+2095.0,Store_2095,Houston
+2096.0,Store_2096,New York
+2097.0,Store_2097,Phoenix
+2098.0,Store_2098,Houston
+2099.0,Store_2099,Phoenix
+2100.0,Store_2100,Chicago
+2101.0,Store_2101,Houston
+2102.0,Store_2102,Phoenix
+2103.0,Store_2103,New York
+2104.0,Store_2104,Los Angeles
+2105.0,Store_2105,Phoenix
+2106.0,Store_2106,Phoenix
+2107.0,Store_2107,Phoenix
+2108.0,Store_2108,New York
+2109.0,Store_2109,Los Angeles
+2110.0,Store_2110,Los Angeles
+2111.0,Store_2111,Los Angeles
+2112.0,Store_2112,Phoenix
+2113.0,Store_2113,Chicago
+2114.0,Store_2114,Los Angeles
+2115.0,Store_2115,Chicago
+2116.0,Store_2116,Los Angeles
+2117.0,Store_2117,Chicago
+2118.0,Store_2118,Los Angeles
+2119.0,Store_2119,Chicago
+2120.0,Store_2120,Chicago
+2121.0,Store_2121,New York
+2122.0,Store_2122,Los Angeles
+2123.0,Store_2123,Houston
+2124.0,Store_2124,Phoenix
+2125.0,Store_2125,New York
+2126.0,Store_2126,Houston
+2127.0,Store_2127,Los Angeles
+2128.0,Store_2128,Chicago
+2129.0,Store_2129,New York
+2130.0,Store_2130,Phoenix
+2131.0,Store_2131,Chicago
+2132.0,Store_2132,New York
+2133.0,Store_2133,Los Angeles
+2134.0,Store_2134,Phoenix
+,Store_2135,Chicago
+2136.0,Store_2136,Houston
+2137.0,Store_2137,Chicago
+2138.0,Store_2138,Chicago
+2139.0,Store_2139,Houston
+,Store_2140,Houston
+2141.0,Store_2141,Houston
+2142.0,Store_2142,Phoenix
+2143.0,Store_2143,New York
+2144.0,Store_2144,New York
+2145.0,Store_2145,Chicago
+2146.0,Store_2146,New York
+2147.0,Store_2147,New York
+2148.0,Store_2148,Chicago
+2149.0,Store_2149,Los Angeles
+2150.0,Store_2150,Houston
+2151.0,Store_2151,Houston
+2152.0,Store_2152,New York
+2153.0,Store_2153,Chicago
+2154.0,Store_2154,Phoenix
+2155.0,Store_2155,Chicago
+2156.0,Store_2156,Los Angeles
+,Store_2157,Chicago
+,Store_2158,New York
+2159.0,Store_2159,Los Angeles
+2160.0,Store_2160,Chicago
+2161.0,Store_2161,New York
+2162.0,Store_2162,Houston
+2163.0,Store_2163,Chicago
+2164.0,Store_2164,New York
+2165.0,Store_2165,Phoenix
+2166.0,Store_2166,Los Angeles
+2167.0,Store_2167,Chicago
+2168.0,Store_2168,Phoenix
+2169.0,Store_2169,Houston
+2170.0,Store_2170,New York
+2171.0,Store_2171,Phoenix
+2172.0,Store_2172,New York
+2173.0,Store_2173,Houston
+2174.0,Store_2174,New York
+2175.0,Store_2175,Chicago
+2176.0,Store_2176,Phoenix
+2177.0,Store_2177,Phoenix
+2178.0,Store_2178,Los Angeles
+2179.0,Store_2179,Los Angeles
+2180.0,Store_2180,Chicago
+2181.0,Store_2181,Phoenix
+2182.0,Store_2182,New York
+2183.0,Store_2183,New York
+2184.0,Store_2184,Chicago
+2185.0,Store_2185,New York
+2186.0,Store_2186,Chicago
+2187.0,Store_2187,New York
+2188.0,Store_2188,Houston
+2189.0,Store_2189,New York
+2190.0,Store_2190,Houston
+2191.0,Store_2191,New York
+2192.0,Store_2192,Houston
+2193.0,Store_2193,Phoenix
+2194.0,Store_2194,Los Angeles
+2195.0,Store_2195,Houston
+2196.0,Store_2196,Chicago
+2197.0,Store_2197,Houston
+2198.0,Store_2198,Phoenix
+2199.0,Store_2199,Phoenix
+2200.0,Store_2200,Houston
+2201.0,Store_2201,Los Angeles
+2202.0,Store_2202,Chicago
+2203.0,Store_2203,Chicago
+2204.0,Store_2204,Phoenix
+2205.0,Store_2205,Los Angeles
+2206.0,Store_2206,Phoenix
+2207.0,Store_2207,Chicago
+2208.0,Store_2208,Los Angeles
+2209.0,Store_2209,Houston
+2210.0,Store_2210,Phoenix
+2211.0,Store_2211,New York
+2212.0,Store_2212,New York
+2213.0,Store_2213,New York
+2214.0,Store_2214,New York
+2215.0,Store_2215,Houston
+2216.0,Store_2216,Los Angeles
+2217.0,Store_2217,Los Angeles
+2218.0,Store_2218,Los Angeles
+2219.0,Store_2219,New York
+2220.0,Store_2220,New York
+2221.0,Store_2221,New York
+2222.0,Store_2222,Houston
+2223.0,Store_2223,Houston
+2224.0,Store_2224,Houston
+2225.0,Store_2225,Phoenix
+2226.0,Store_2226,Los Angeles
+2227.0,Store_2227,New York
+2228.0,Store_2228,Chicago
+2229.0,Store_2229,New York
+2230.0,Store_2230,Houston
+,Store_2231,Chicago
+2232.0,Store_2232,Houston
+2233.0,Store_2233,Chicago
+2234.0,Store_2234,Los Angeles
+2235.0,Store_2235,New York
+2236.0,Store_2236,Phoenix
+2237.0,Store_2237,Los Angeles
+2238.0,Store_2238,New York
+2239.0,Store_2239,New York
+2240.0,Store_2240,Phoenix
+2241.0,Store_2241,Houston
+2242.0,Store_2242,Chicago
+2243.0,Store_2243,New York
+2244.0,Store_2244,Phoenix
+2245.0,Store_2245,Phoenix
+2246.0,Store_2246,Houston
+2247.0,Store_2247,Los Angeles
+2248.0,Store_2248,New York
+2249.0,Store_2249,Phoenix
+2250.0,Store_2250,Houston
+2251.0,Store_2251,Los Angeles
+2252.0,Store_2252,Los Angeles
+2253.0,Store_2253,New York
+2254.0,Store_2254,Houston
+2255.0,Store_2255,Houston
+2256.0,Store_2256,Houston
+2257.0,Store_2257,Houston
+2258.0,Store_2258,Phoenix
+2259.0,Store_2259,Chicago
+2260.0,Store_2260,Houston
+2261.0,Store_2261,Chicago
+2262.0,Store_2262,Houston
+2263.0,Store_2263,Los Angeles
+2264.0,Store_2264,Houston
+2265.0,Store_2265,Los Angeles
+2266.0,Store_2266,New York
+2267.0,Store_2267,Houston
+2268.0,Store_2268,Chicago
+2269.0,Store_2269,Houston
+2270.0,Store_2270,Houston
+2271.0,Store_2271,New York
+2272.0,Store_2272,Houston
+2273.0,Store_2273,Houston
+2274.0,Store_2274,Los Angeles
+2275.0,Store_2275,Chicago
+2276.0,Store_2276,Phoenix
+2277.0,Store_2277,Chicago
+2278.0,Store_2278,Phoenix
+2279.0,Store_2279,Los Angeles
+2280.0,Store_2280,Houston
+2281.0,Store_2281,Phoenix
+2282.0,Store_2282,Los Angeles
+2283.0,Store_2283,Chicago
+2284.0,Store_2284,Los Angeles
+2285.0,Store_2285,Los Angeles
+2286.0,Store_2286,Phoenix
+2287.0,Store_2287,Houston
+2288.0,Store_2288,Los Angeles
+2289.0,Store_2289,New York
+2290.0,Store_2290,Phoenix
+2291.0,Store_2291,Phoenix
+2292.0,Store_2292,Phoenix
+2293.0,Store_2293,Los Angeles
+2294.0,Store_2294,Phoenix
+2295.0,Store_2295,Phoenix
+2296.0,Store_2296,Chicago
+2297.0,Store_2297,Los Angeles
+2298.0,Store_2298,New York
+2299.0,Store_2299,Phoenix
+2300.0,Store_2300,Los Angeles
+2301.0,Store_2301,New York
+2302.0,Store_2302,Chicago
+2303.0,Store_2303,New York
+2304.0,Store_2304,New York
+2305.0,Store_2305,New York
+2306.0,Store_2306,Los Angeles
+2307.0,Store_2307,New York
+2308.0,Store_2308,Houston
+2309.0,Store_2309,Phoenix
+2310.0,Store_2310,Chicago
+2311.0,Store_2311,New York
+2312.0,Store_2312,Los Angeles
+2313.0,Store_2313,New York
+2314.0,Store_2314,Los Angeles
+2315.0,Store_2315,Phoenix
+2316.0,Store_2316,Phoenix
+2317.0,Store_2317,New York
+2318.0,Store_2318,Chicago
+2319.0,Store_2319,Chicago
+2320.0,Store_2320,Chicago
+2321.0,Store_2321,Chicago
+2322.0,Store_2322,New York
+2323.0,Store_2323,Los Angeles
+2324.0,Store_2324,Los Angeles
+2325.0,Store_2325,Los Angeles
+2326.0,Store_2326,Houston
+2327.0,Store_2327,New York
+2328.0,Store_2328,Phoenix
+2329.0,Store_2329,New York
+2330.0,Store_2330,Los Angeles
+2331.0,Store_2331,Chicago
+2332.0,Store_2332,Los Angeles
+2333.0,Store_2333,Chicago
+2334.0,Store_2334,Los Angeles
+2335.0,Store_2335,Houston
+2336.0,Store_2336,New York
+2337.0,Store_2337,Chicago
+2338.0,Store_2338,New York
+2339.0,Store_2339,Phoenix
+2340.0,Store_2340,Phoenix
+2341.0,Store_2341,Los Angeles
+2342.0,Store_2342,Houston
+2343.0,Store_2343,Chicago
+2344.0,Store_2344,Los Angeles
+2345.0,Store_2345,Los Angeles
+2346.0,Store_2346,Phoenix
+2347.0,Store_2347,New York
+2348.0,Store_2348,Phoenix
+,Store_2349,New York
+2350.0,Store_2350,Los Angeles
+2351.0,Store_2351,Los Angeles
+2352.0,Store_2352,New York
+2353.0,Store_2353,New York
+,Store_2354,Houston
+2355.0,Store_2355,Chicago
+2356.0,Store_2356,Chicago
+2357.0,Store_2357,Phoenix
+2358.0,Store_2358,New York
+2359.0,Store_2359,Chicago
+2360.0,Store_2360,New York
+2361.0,Store_2361,Los Angeles
+2362.0,Store_2362,Chicago
+2363.0,Store_2363,Los Angeles
+2364.0,Store_2364,Los Angeles
+2365.0,Store_2365,New York
+2366.0,Store_2366,Houston
+2367.0,Store_2367,Houston
+2368.0,Store_2368,New York
+2369.0,Store_2369,Los Angeles
+2370.0,Store_2370,Houston
+2371.0,Store_2371,Houston
+2372.0,Store_2372,New York
+2373.0,Store_2373,Chicago
+2374.0,Store_2374,Phoenix
+2375.0,Store_2375,Los Angeles
+2376.0,Store_2376,Houston
+2377.0,Store_2377,Los Angeles
+2378.0,Store_2378,Phoenix
+2379.0,Store_2379,Chicago
+2380.0,Store_2380,Houston
+,Store_2381,Los Angeles
+2382.0,Store_2382,Los Angeles
+2383.0,Store_2383,Houston
+2384.0,Store_2384,Houston
+2385.0,Store_2385,Houston
+2386.0,Store_2386,Phoenix
+2387.0,Store_2387,Phoenix
+2388.0,Store_2388,Los Angeles
+2389.0,Store_2389,Los Angeles
+,Store_2390,Chicago
+2391.0,Store_2391,Chicago
+2392.0,Store_2392,Chicago
+2393.0,Store_2393,Los Angeles
+2394.0,Store_2394,Chicago
+2395.0,Store_2395,Los Angeles
+2396.0,Store_2396,Chicago
+2397.0,Store_2397,New York
+2398.0,Store_2398,Chicago
+2399.0,Store_2399,Phoenix
+2400.0,Store_2400,Los Angeles
+2401.0,Store_2401,New York
+2402.0,Store_2402,Chicago
+2403.0,Store_2403,Los Angeles
+2404.0,Store_2404,Los Angeles
+2405.0,Store_2405,Los Angeles
+2406.0,Store_2406,New York
+2407.0,Store_2407,Phoenix
+2408.0,Store_2408,New York
+2409.0,Store_2409,Phoenix
+2410.0,Store_2410,Los Angeles
+2411.0,Store_2411,Houston
+2412.0,Store_2412,New York
+2413.0,Store_2413,Phoenix
+2414.0,Store_2414,Chicago
+2415.0,Store_2415,Chicago
+2416.0,Store_2416,Houston
+2417.0,Store_2417,Houston
+2418.0,Store_2418,New York
+2419.0,Store_2419,New York
+2420.0,Store_2420,New York
+2421.0,Store_2421,Los Angeles
+2422.0,Store_2422,Los Angeles
+2423.0,Store_2423,New York
+2424.0,Store_2424,Houston
+2425.0,Store_2425,Los Angeles
+2426.0,Store_2426,Chicago
+2427.0,Store_2427,Houston
+2428.0,Store_2428,Phoenix
+2429.0,Store_2429,Chicago
+2430.0,Store_2430,Los Angeles
+2431.0,Store_2431,Chicago
+2432.0,Store_2432,Phoenix
+2433.0,Store_2433,Houston
+2434.0,Store_2434,Houston
+,Store_2435,New York
+2436.0,Store_2436,Los Angeles
+2437.0,Store_2437,Phoenix
+2438.0,Store_2438,Phoenix
+2439.0,Store_2439,Phoenix
+2440.0,Store_2440,Phoenix
+2441.0,Store_2441,Chicago
+2442.0,Store_2442,Los Angeles
+2443.0,Store_2443,Houston
+,Store_2444,New York
+2445.0,Store_2445,Chicago
+2446.0,Store_2446,Houston
+2447.0,Store_2447,Houston
+2448.0,Store_2448,Chicago
+2449.0,Store_2449,Houston
+2450.0,Store_2450,Chicago
+2451.0,Store_2451,Phoenix
+2452.0,Store_2452,Phoenix
+2453.0,Store_2453,Houston
+2454.0,Store_2454,Phoenix
+2455.0,Store_2455,Phoenix
+2456.0,Store_2456,Chicago
+2457.0,Store_2457,Chicago
+2458.0,Store_2458,Los Angeles
+2459.0,Store_2459,New York
+2460.0,Store_2460,New York
+2461.0,Store_2461,Los Angeles
+2462.0,Store_2462,Los Angeles
+2463.0,Store_2463,Los Angeles
+,Store_2464,Chicago
+2465.0,Store_2465,Houston
+2466.0,Store_2466,New York
+2467.0,Store_2467,Houston
+,Store_2468,New York
+2469.0,Store_2469,Phoenix
+2470.0,Store_2470,New York
+2471.0,Store_2471,New York
+2472.0,Store_2472,Los Angeles
+2473.0,Store_2473,Houston
+2474.0,Store_2474,Chicago
+2475.0,Store_2475,Houston
+2476.0,Store_2476,New York
+2477.0,Store_2477,Houston
+2478.0,Store_2478,New York
+2479.0,Store_2479,Phoenix
+2480.0,Store_2480,Phoenix
+2481.0,Store_2481,Phoenix
+2482.0,Store_2482,Houston
+2483.0,Store_2483,Los Angeles
+2484.0,Store_2484,Los Angeles
+2485.0,Store_2485,New York
+2486.0,Store_2486,Los Angeles
+2487.0,Store_2487,Houston
+2488.0,Store_2488,New York
+2489.0,Store_2489,Houston
+2490.0,Store_2490,Chicago
+,Store_2491,Los Angeles
+2492.0,Store_2492,Chicago
+2493.0,Store_2493,Chicago
+2494.0,Store_2494,Houston
+2495.0,Store_2495,Chicago
+2496.0,Store_2496,Houston
+2497.0,Store_2497,New York
+2498.0,Store_2498,Los Angeles
+2499.0,Store_2499,Houston
+2500.0,Store_2500,Phoenix
+2501.0,Store_2501,Chicago
+,Store_2502,Phoenix
+2503.0,Store_2503,Los Angeles
+2504.0,Store_2504,Houston
+2505.0,Store_2505,Los Angeles
+2506.0,Store_2506,Los Angeles
+2507.0,Store_2507,New York
+2508.0,Store_2508,New York
+2509.0,Store_2509,Phoenix
+2510.0,Store_2510,Chicago
+2511.0,Store_2511,Houston
+2512.0,Store_2512,Los Angeles
+2513.0,Store_2513,Los Angeles
+2514.0,Store_2514,Houston
+2515.0,Store_2515,New York
+2516.0,Store_2516,New York
+,Store_2517,Chicago
+,Store_2518,Houston
+2519.0,Store_2519,Houston
+2520.0,Store_2520,Phoenix
+2521.0,Store_2521,New York
+2522.0,Store_2522,Los Angeles
+2523.0,Store_2523,New York
+2524.0,Store_2524,Houston
+2525.0,Store_2525,New York
+2526.0,Store_2526,Los Angeles
+2527.0,Store_2527,Los Angeles
+2528.0,Store_2528,New York
+2529.0,Store_2529,Phoenix
+2530.0,Store_2530,Phoenix
+2531.0,Store_2531,Houston
+2532.0,Store_2532,Houston
+2533.0,Store_2533,Los Angeles
+2534.0,Store_2534,Chicago
+2535.0,Store_2535,New York
+2536.0,Store_2536,Los Angeles
+2537.0,Store_2537,Chicago
+2538.0,Store_2538,Houston
+2539.0,Store_2539,Los Angeles
+2540.0,Store_2540,Houston
+2541.0,Store_2541,Los Angeles
+2542.0,Store_2542,Chicago
+2543.0,Store_2543,New York
+2544.0,Store_2544,Houston
+2545.0,Store_2545,Los Angeles
+2546.0,Store_2546,New York
+2547.0,Store_2547,Chicago
+2548.0,Store_2548,Phoenix
+2549.0,Store_2549,Houston
+2550.0,Store_2550,New York
+2551.0,Store_2551,Chicago
+2552.0,Store_2552,New York
+2553.0,Store_2553,Phoenix
+2554.0,Store_2554,New York
+2555.0,Store_2555,Los Angeles
+2556.0,Store_2556,New York
+2557.0,Store_2557,Houston
+2558.0,Store_2558,Houston
+2559.0,Store_2559,Chicago
+2560.0,Store_2560,Phoenix
+2561.0,Store_2561,Chicago
+2562.0,Store_2562,Houston
+2563.0,Store_2563,Los Angeles
+,Store_2564,Los Angeles
+2565.0,Store_2565,New York
+2566.0,Store_2566,Phoenix
+2567.0,Store_2567,Chicago
+2568.0,Store_2568,New York
+2569.0,Store_2569,Chicago
+2570.0,Store_2570,Los Angeles
+2571.0,Store_2571,Houston
+2572.0,Store_2572,New York
+2573.0,Store_2573,Chicago
+2574.0,Store_2574,Los Angeles
+2575.0,Store_2575,Phoenix
+2576.0,Store_2576,Houston
+2577.0,Store_2577,New York
+2578.0,Store_2578,Los Angeles
+2579.0,Store_2579,Houston
+2580.0,Store_2580,Chicago
+2581.0,Store_2581,Chicago
+2582.0,Store_2582,Chicago
+2583.0,Store_2583,Los Angeles
+2584.0,Store_2584,Chicago
+2585.0,Store_2585,New York
+2586.0,Store_2586,Houston
+2587.0,Store_2587,Houston
+2588.0,Store_2588,Chicago
+2589.0,Store_2589,Chicago
+2590.0,Store_2590,Phoenix
+2591.0,Store_2591,New York
+2592.0,Store_2592,Los Angeles
+2593.0,Store_2593,New York
+2594.0,Store_2594,Houston
+2595.0,Store_2595,Chicago
+2596.0,Store_2596,New York
+2597.0,Store_2597,Chicago
+2598.0,Store_2598,Phoenix
+2599.0,Store_2599,Houston
+2600.0,Store_2600,Los Angeles
+2601.0,Store_2601,New York
+2602.0,Store_2602,Chicago
+2603.0,Store_2603,Phoenix
+2604.0,Store_2604,Houston
+2605.0,Store_2605,New York
+2606.0,Store_2606,Los Angeles
+2607.0,Store_2607,Phoenix
+2608.0,Store_2608,Phoenix
+2609.0,Store_2609,Chicago
+2610.0,Store_2610,Chicago
+2611.0,Store_2611,Chicago
+2612.0,Store_2612,Phoenix
+2613.0,Store_2613,Los Angeles
+2614.0,Store_2614,New York
+2615.0,Store_2615,Phoenix
+2616.0,Store_2616,Los Angeles
+2617.0,Store_2617,Los Angeles
+2618.0,Store_2618,New York
+,Store_2619,New York
+2620.0,Store_2620,Phoenix
+2621.0,Store_2621,New York
+2622.0,Store_2622,Los Angeles
+2623.0,Store_2623,Chicago
+2624.0,Store_2624,Chicago
+2625.0,Store_2625,New York
+2626.0,Store_2626,Chicago
+2627.0,Store_2627,Phoenix
+,Store_2628,Chicago
+2629.0,Store_2629,Chicago
+2630.0,Store_2630,Los Angeles
+2631.0,Store_2631,Phoenix
+2632.0,Store_2632,Phoenix
+2633.0,Store_2633,New York
+2634.0,Store_2634,New York
+2635.0,Store_2635,Chicago
+2636.0,Store_2636,Chicago
+2637.0,Store_2637,Phoenix
+2638.0,Store_2638,Los Angeles
+,Store_2639,Chicago
+2640.0,Store_2640,Los Angeles
+2641.0,Store_2641,New York
+2642.0,Store_2642,New York
+2643.0,Store_2643,Los Angeles
+,Store_2644,Los Angeles
+2645.0,Store_2645,New York
+2646.0,Store_2646,Los Angeles
+2647.0,Store_2647,Phoenix
+2648.0,Store_2648,Los Angeles
+2649.0,Store_2649,New York
+2650.0,Store_2650,Chicago
+2651.0,Store_2651,Houston
+,Store_2652,New York
+2653.0,Store_2653,Houston
+2654.0,Store_2654,Los Angeles
+2655.0,Store_2655,Houston
+2656.0,Store_2656,Chicago
+2657.0,Store_2657,Los Angeles
+2658.0,Store_2658,Houston
+2659.0,Store_2659,New York
+2660.0,Store_2660,Phoenix
+2661.0,Store_2661,Los Angeles
+2662.0,Store_2662,Houston
+2663.0,Store_2663,New York
+2664.0,Store_2664,New York
+2665.0,Store_2665,Los Angeles
+2666.0,Store_2666,Phoenix
+2667.0,Store_2667,Los Angeles
+2668.0,Store_2668,Houston
+2669.0,Store_2669,Phoenix
+2670.0,Store_2670,Chicago
+2671.0,Store_2671,Phoenix
+2672.0,Store_2672,Phoenix
+2673.0,Store_2673,Houston
+2674.0,Store_2674,Phoenix
+2675.0,Store_2675,Chicago
+2676.0,Store_2676,Phoenix
+2677.0,Store_2677,New York
+2678.0,Store_2678,New York
+2679.0,Store_2679,Los Angeles
+2680.0,Store_2680,New York
+2681.0,Store_2681,Phoenix
+2682.0,Store_2682,Houston
+2683.0,Store_2683,Los Angeles
+2684.0,Store_2684,Los Angeles
+2685.0,Store_2685,New York
+,Store_2686,Los Angeles
+2687.0,Store_2687,Houston
+2688.0,Store_2688,Houston
+2689.0,Store_2689,Chicago
+2690.0,Store_2690,Houston
+2691.0,Store_2691,Chicago
+2692.0,Store_2692,Chicago
+2693.0,Store_2693,Houston
+2694.0,Store_2694,Los Angeles
+2695.0,Store_2695,Phoenix
+2696.0,Store_2696,Houston
+2697.0,Store_2697,Chicago
+2698.0,Store_2698,Los Angeles
+2699.0,Store_2699,Phoenix
+2700.0,Store_2700,New York
+2701.0,Store_2701,Chicago
+,Store_2702,Los Angeles
+2703.0,Store_2703,Los Angeles
+2704.0,Store_2704,Los Angeles
+2705.0,Store_2705,New York
+2706.0,Store_2706,Houston
+2707.0,Store_2707,New York
+2708.0,Store_2708,Los Angeles
+2709.0,Store_2709,Houston
+2710.0,Store_2710,Houston
+2711.0,Store_2711,Phoenix
+2712.0,Store_2712,New York
+2713.0,Store_2713,Los Angeles
+2714.0,Store_2714,Los Angeles
+2715.0,Store_2715,New York
+2716.0,Store_2716,Phoenix
+2717.0,Store_2717,Phoenix
+2718.0,Store_2718,Houston
+2719.0,Store_2719,Houston
+2720.0,Store_2720,Los Angeles
+2721.0,Store_2721,Phoenix
+2722.0,Store_2722,Los Angeles
+2723.0,Store_2723,New York
+2724.0,Store_2724,Houston
+2725.0,Store_2725,Phoenix
+2726.0,Store_2726,New York
+2727.0,Store_2727,New York
+2728.0,Store_2728,Los Angeles
+2729.0,Store_2729,New York
+2730.0,Store_2730,Phoenix
+2731.0,Store_2731,Chicago
+2732.0,Store_2732,Los Angeles
+2733.0,Store_2733,New York
+2734.0,Store_2734,Chicago
+2735.0,Store_2735,Los Angeles
+2736.0,Store_2736,Phoenix
+2737.0,Store_2737,New York
+2738.0,Store_2738,Chicago
+2739.0,Store_2739,Los Angeles
+2740.0,Store_2740,Houston
+2741.0,Store_2741,New York
+2742.0,Store_2742,New York
+2743.0,Store_2743,Houston
+2744.0,Store_2744,Los Angeles
+2745.0,Store_2745,Los Angeles
+2746.0,Store_2746,New York
+2747.0,Store_2747,New York
+2748.0,Store_2748,Phoenix
+,Store_2749,Houston
+2750.0,Store_2750,Chicago
+2751.0,Store_2751,Phoenix
+2752.0,Store_2752,Houston
+2753.0,Store_2753,Houston
+2754.0,Store_2754,Los Angeles
+2755.0,Store_2755,Chicago
+2756.0,Store_2756,Los Angeles
+2757.0,Store_2757,Los Angeles
+2758.0,Store_2758,Chicago
+2759.0,Store_2759,New York
+2760.0,Store_2760,Los Angeles
+2761.0,Store_2761,Los Angeles
+2762.0,Store_2762,Houston
+2763.0,Store_2763,Houston
+2764.0,Store_2764,Houston
+2765.0,Store_2765,New York
+2766.0,Store_2766,Chicago
+2767.0,Store_2767,New York
+2768.0,Store_2768,New York
+2769.0,Store_2769,New York
+,Store_2770,Houston
+2771.0,Store_2771,Chicago
+2772.0,Store_2772,Houston
+2773.0,Store_2773,Los Angeles
+2774.0,Store_2774,Houston
+2775.0,Store_2775,Houston
+2776.0,Store_2776,Houston
+2777.0,Store_2777,Los Angeles
+2778.0,Store_2778,Chicago
+2779.0,Store_2779,Phoenix
+2780.0,Store_2780,Chicago
+,Store_2781,Houston
+2782.0,Store_2782,Phoenix
+2783.0,Store_2783,New York
+2784.0,Store_2784,Phoenix
+2785.0,Store_2785,Chicago
+2786.0,Store_2786,New York
+2787.0,Store_2787,Chicago
+2788.0,Store_2788,Chicago
+,Store_2789,Phoenix
+2790.0,Store_2790,Chicago
+,Store_2791,Chicago
+2792.0,Store_2792,Houston
+2793.0,Store_2793,Phoenix
+2794.0,Store_2794,New York
+2795.0,Store_2795,Phoenix
+2796.0,Store_2796,Phoenix
+,Store_2797,Phoenix
+2798.0,Store_2798,Los Angeles
+2799.0,Store_2799,Phoenix
+2800.0,Store_2800,Houston
+2801.0,Store_2801,New York
+2802.0,Store_2802,Los Angeles
+2803.0,Store_2803,New York
+2804.0,Store_2804,Chicago
+2805.0,Store_2805,Chicago
+2806.0,Store_2806,New York
+2807.0,Store_2807,Phoenix
+2808.0,Store_2808,Houston
+2809.0,Store_2809,Houston
+2810.0,Store_2810,New York
+2811.0,Store_2811,Phoenix
+2812.0,Store_2812,Houston
+2813.0,Store_2813,Houston
+2814.0,Store_2814,Los Angeles
+2815.0,Store_2815,New York
+2816.0,Store_2816,Houston
+2817.0,Store_2817,New York
+2818.0,Store_2818,Phoenix
+2819.0,Store_2819,Phoenix
+2820.0,Store_2820,Phoenix
+2821.0,Store_2821,Phoenix
+2822.0,Store_2822,Chicago
+2823.0,Store_2823,Los Angeles
+2824.0,Store_2824,Chicago
+,Store_2825,Phoenix
+2826.0,Store_2826,Phoenix
+2827.0,Store_2827,Houston
+2828.0,Store_2828,Los Angeles
+2829.0,Store_2829,Chicago
+2830.0,Store_2830,Phoenix
+2831.0,Store_2831,Phoenix
+2832.0,Store_2832,Chicago
+2833.0,Store_2833,Los Angeles
+2834.0,Store_2834,Phoenix
+2835.0,Store_2835,Chicago
+,Store_2836,Los Angeles
+2837.0,Store_2837,Chicago
+2838.0,Store_2838,New York
+2839.0,Store_2839,Los Angeles
+,Store_2840,Chicago
+2841.0,Store_2841,Houston
+2842.0,Store_2842,Phoenix
+2843.0,Store_2843,Houston
+2844.0,Store_2844,Phoenix
+2845.0,Store_2845,Los Angeles
+2846.0,Store_2846,New York
+2847.0,Store_2847,New York
+2848.0,Store_2848,New York
+2849.0,Store_2849,New York
+2850.0,Store_2850,Los Angeles
+2851.0,Store_2851,Phoenix
+2852.0,Store_2852,Chicago
+2853.0,Store_2853,Houston
+2854.0,Store_2854,Los Angeles
+2855.0,Store_2855,Los Angeles
+2856.0,Store_2856,Los Angeles
+2857.0,Store_2857,New York
+2858.0,Store_2858,New York
+2859.0,Store_2859,New York
+2860.0,Store_2860,New York
+2861.0,Store_2861,Chicago
+2862.0,Store_2862,Houston
+2863.0,Store_2863,Chicago
+2864.0,Store_2864,Houston
+2865.0,Store_2865,Phoenix
+2866.0,Store_2866,Houston
+2867.0,Store_2867,Los Angeles
+2868.0,Store_2868,Chicago
+2869.0,Store_2869,Phoenix
+2870.0,Store_2870,Phoenix
+2871.0,Store_2871,Los Angeles
+2872.0,Store_2872,New York
+2873.0,Store_2873,Los Angeles
+2874.0,Store_2874,Phoenix
+2875.0,Store_2875,Los Angeles
+2876.0,Store_2876,Los Angeles
+2877.0,Store_2877,New York
+2878.0,Store_2878,New York
+2879.0,Store_2879,Phoenix
+2880.0,Store_2880,Houston
+2881.0,Store_2881,Chicago
+2882.0,Store_2882,Chicago
+2883.0,Store_2883,Houston
+2884.0,Store_2884,Phoenix
+2885.0,Store_2885,Houston
+2886.0,Store_2886,Chicago
+2887.0,Store_2887,Los Angeles
+2888.0,Store_2888,Phoenix
+2889.0,Store_2889,New York
+2890.0,Store_2890,Houston
+2891.0,Store_2891,Los Angeles
+2892.0,Store_2892,Phoenix
+,Store_2893,Houston
+2894.0,Store_2894,Houston
+2895.0,Store_2895,Los Angeles
+,Store_2896,Chicago
+2897.0,Store_2897,Chicago
+2898.0,Store_2898,Chicago
+2899.0,Store_2899,Houston
+,Store_2900,New York
+2901.0,Store_2901,Phoenix
+2902.0,Store_2902,Houston
+2903.0,Store_2903,Houston
+2904.0,Store_2904,Phoenix
+2905.0,Store_2905,New York
+2906.0,Store_2906,Houston
+,Store_2907,Phoenix
+2908.0,Store_2908,New York
+2909.0,Store_2909,New York
+2910.0,Store_2910,Chicago
+2911.0,Store_2911,Phoenix
+2912.0,Store_2912,Phoenix
+2913.0,Store_2913,New York
+2914.0,Store_2914,Houston
+2915.0,Store_2915,Phoenix
+2916.0,Store_2916,Los Angeles
+,Store_2917,New York
+2918.0,Store_2918,Houston
+2919.0,Store_2919,Los Angeles
+2920.0,Store_2920,Phoenix
+2921.0,Store_2921,Houston
+2922.0,Store_2922,New York
+,Store_2923,Phoenix
+2924.0,Store_2924,Phoenix
+2925.0,Store_2925,Los Angeles
+2926.0,Store_2926,Phoenix
+2927.0,Store_2927,New York
+2928.0,Store_2928,New York
+2929.0,Store_2929,Phoenix
+2930.0,Store_2930,New York
+2931.0,Store_2931,Houston
+2932.0,Store_2932,New York
+2933.0,Store_2933,Houston
+2934.0,Store_2934,Phoenix
+2935.0,Store_2935,Los Angeles
+2936.0,Store_2936,New York
+2937.0,Store_2937,Phoenix
+2938.0,Store_2938,Chicago
+2939.0,Store_2939,Houston
+2940.0,Store_2940,Phoenix
+2941.0,Store_2941,New York
+2942.0,Store_2942,Houston
+2943.0,Store_2943,New York
+2944.0,Store_2944,Los Angeles
+2945.0,Store_2945,New York
+2946.0,Store_2946,Houston
+2947.0,Store_2947,Los Angeles
+2948.0,Store_2948,Chicago
+2949.0,Store_2949,New York
+2950.0,Store_2950,Phoenix
+2951.0,Store_2951,Los Angeles
+2952.0,Store_2952,New York
+2953.0,Store_2953,Los Angeles
+2954.0,Store_2954,Los Angeles
+2955.0,Store_2955,Los Angeles
+2956.0,Store_2956,Houston
+2957.0,Store_2957,Phoenix
+2958.0,Store_2958,Los Angeles
+,Store_2959,Houston
+2960.0,Store_2960,New York
+,Store_2961,Phoenix
+2962.0,Store_2962,Chicago
+2963.0,Store_2963,New York
+2964.0,Store_2964,Phoenix
+2965.0,Store_2965,Los Angeles
+2966.0,Store_2966,Phoenix
+2967.0,Store_2967,Phoenix
+2968.0,Store_2968,Houston
+,Store_2969,Houston
+2970.0,Store_2970,Chicago
+2971.0,Store_2971,Los Angeles
+2972.0,Store_2972,Chicago
+2973.0,Store_2973,New York
+,Store_2974,Los Angeles
+2975.0,Store_2975,Phoenix
+2976.0,Store_2976,Los Angeles
+2977.0,Store_2977,New York
+2978.0,Store_2978,Houston
+2979.0,Store_2979,Chicago
+2980.0,Store_2980,New York
+2981.0,Store_2981,Phoenix
+2982.0,Store_2982,Los Angeles
+,Store_2983,New York
+2984.0,Store_2984,Los Angeles
+2985.0,Store_2985,Los Angeles
+2986.0,Store_2986,Houston
+2987.0,Store_2987,Phoenix
+2988.0,Store_2988,Phoenix
+2989.0,Store_2989,Phoenix
+2990.0,Store_2990,Los Angeles
+2991.0,Store_2991,Chicago
+2992.0,Store_2992,Los Angeles
+2993.0,Store_2993,Phoenix
+2994.0,Store_2994,Phoenix
+2995.0,Store_2995,Houston
+2996.0,Store_2996,Phoenix
+2997.0,Store_2997,Los Angeles
+2998.0,Store_2998,Los Angeles
+2999.0,Store_2999,Los Angeles
+3000.0,Store_3000,New York
+3001.0,Store_3001,Houston
+3002.0,Store_3002,Houston
+3003.0,Store_3003,Los Angeles
+3004.0,Store_3004,Houston
+3005.0,Store_3005,Los Angeles
+3006.0,Store_3006,New York
+3007.0,Store_3007,Phoenix
+3008.0,Store_3008,New York
+3009.0,Store_3009,Chicago
+3010.0,Store_3010,Los Angeles
+3011.0,Store_3011,New York
+3012.0,Store_3012,Houston
+3013.0,Store_3013,Los Angeles
+3014.0,Store_3014,Phoenix
+3015.0,Store_3015,Phoenix
+3016.0,Store_3016,Chicago
+3017.0,Store_3017,New York
+,Store_3018,Houston
+3019.0,Store_3019,New York
+3020.0,Store_3020,Los Angeles
+3021.0,Store_3021,Phoenix
+3022.0,Store_3022,New York
+3023.0,Store_3023,Phoenix
+3024.0,Store_3024,Phoenix
+3025.0,Store_3025,Phoenix
+3026.0,Store_3026,New York
+3027.0,Store_3027,Chicago
+3028.0,Store_3028,Los Angeles
+3029.0,Store_3029,Chicago
+3030.0,Store_3030,Phoenix
+3031.0,Store_3031,New York
+3032.0,Store_3032,New York
+3033.0,Store_3033,New York
+3034.0,Store_3034,New York
+3035.0,Store_3035,Houston
+3036.0,Store_3036,Phoenix
+3037.0,Store_3037,Los Angeles
+3038.0,Store_3038,New York
+3039.0,Store_3039,Phoenix
+3040.0,Store_3040,Phoenix
+3041.0,Store_3041,Houston
+3042.0,Store_3042,New York
+3043.0,Store_3043,Chicago
+,Store_3044,Chicago
+3045.0,Store_3045,Chicago
+3046.0,Store_3046,Phoenix
+3047.0,Store_3047,Los Angeles
+,Store_3048,Phoenix
+3049.0,Store_3049,Houston
+3050.0,Store_3050,Phoenix
+3051.0,Store_3051,Chicago
+3052.0,Store_3052,New York
+3053.0,Store_3053,Phoenix
+3054.0,Store_3054,New York
+3055.0,Store_3055,Los Angeles
+3056.0,Store_3056,Houston
+3057.0,Store_3057,Phoenix
+3058.0,Store_3058,Houston
+3059.0,Store_3059,Houston
+,Store_3060,Los Angeles
+3061.0,Store_3061,Phoenix
+3062.0,Store_3062,New York
+3063.0,Store_3063,Chicago
+3064.0,Store_3064,Phoenix
+3065.0,Store_3065,New York
+3066.0,Store_3066,New York
+3067.0,Store_3067,Chicago
+3068.0,Store_3068,New York
+3069.0,Store_3069,Chicago
+3070.0,Store_3070,Los Angeles
+3071.0,Store_3071,Chicago
+3072.0,Store_3072,New York
+3073.0,Store_3073,Phoenix
+3074.0,Store_3074,Chicago
+3075.0,Store_3075,Houston
+3076.0,Store_3076,Phoenix
+3077.0,Store_3077,Los Angeles
+3078.0,Store_3078,Chicago
+3079.0,Store_3079,Houston
+3080.0,Store_3080,Los Angeles
+3081.0,Store_3081,Phoenix
+3082.0,Store_3082,New York
+3083.0,Store_3083,Chicago
+3084.0,Store_3084,Houston
+3085.0,Store_3085,New York
+,Store_3086,Los Angeles
+3087.0,Store_3087,Houston
+3088.0,Store_3088,Chicago
+3089.0,Store_3089,Phoenix
+3090.0,Store_3090,Phoenix
+3091.0,Store_3091,Phoenix
+3092.0,Store_3092,Los Angeles
+3093.0,Store_3093,Houston
+3094.0,Store_3094,Phoenix
+3095.0,Store_3095,Houston
+3096.0,Store_3096,Phoenix
+,Store_3097,New York
+3098.0,Store_3098,Los Angeles
+3099.0,Store_3099,Houston
+3100.0,Store_3100,Los Angeles
+3101.0,Store_3101,Chicago
+3102.0,Store_3102,Phoenix
+3103.0,Store_3103,Los Angeles
+3104.0,Store_3104,Chicago
+3105.0,Store_3105,Los Angeles
+3106.0,Store_3106,Chicago
+3107.0,Store_3107,New York
+3108.0,Store_3108,Chicago
+3109.0,Store_3109,Los Angeles
+3110.0,Store_3110,Houston
+3111.0,Store_3111,New York
+3112.0,Store_3112,Los Angeles
+3113.0,Store_3113,Houston
+3114.0,Store_3114,Los Angeles
+3115.0,Store_3115,Chicago
+3116.0,Store_3116,New York
+3117.0,Store_3117,Phoenix
+3118.0,Store_3118,Chicago
+,Store_3119,Chicago
+3120.0,Store_3120,New York
+3121.0,Store_3121,Phoenix
+3122.0,Store_3122,New York
+3123.0,Store_3123,Phoenix
+3124.0,Store_3124,Los Angeles
+3125.0,Store_3125,New York
+3126.0,Store_3126,New York
+3127.0,Store_3127,Houston
+3128.0,Store_3128,Chicago
+3129.0,Store_3129,New York
+3130.0,Store_3130,Phoenix
+3131.0,Store_3131,New York
+3132.0,Store_3132,New York
+3133.0,Store_3133,Houston
+3134.0,Store_3134,Houston
+3135.0,Store_3135,Los Angeles
+3136.0,Store_3136,Los Angeles
+3137.0,Store_3137,Houston
+3138.0,Store_3138,Phoenix
+3139.0,Store_3139,Los Angeles
+3140.0,Store_3140,Los Angeles
+3141.0,Store_3141,New York
+3142.0,Store_3142,Los Angeles
+,Store_3143,Phoenix
+3144.0,Store_3144,Phoenix
+3145.0,Store_3145,New York
+3146.0,Store_3146,Los Angeles
+3147.0,Store_3147,New York
+3148.0,Store_3148,Chicago
+3149.0,Store_3149,Houston
+3150.0,Store_3150,Phoenix
+3151.0,Store_3151,Los Angeles
+3152.0,Store_3152,Los Angeles
+3153.0,Store_3153,Chicago
+3154.0,Store_3154,Houston
+3155.0,Store_3155,Chicago
+3156.0,Store_3156,Los Angeles
+3157.0,Store_3157,Houston
+3158.0,Store_3158,New York
+3159.0,Store_3159,New York
+3160.0,Store_3160,Chicago
+3161.0,Store_3161,New York
+3162.0,Store_3162,Phoenix
+3163.0,Store_3163,Los Angeles
+3164.0,Store_3164,Los Angeles
+3165.0,Store_3165,Chicago
+3166.0,Store_3166,Houston
+3167.0,Store_3167,New York
+3168.0,Store_3168,Houston
+3169.0,Store_3169,Los Angeles
+3170.0,Store_3170,Houston
+3171.0,Store_3171,Los Angeles
+3172.0,Store_3172,Phoenix
+,Store_3173,New York
+3174.0,Store_3174,New York
+3175.0,Store_3175,Houston
+3176.0,Store_3176,New York
+3177.0,Store_3177,Chicago
+3178.0,Store_3178,Houston
+3179.0,Store_3179,Chicago
+3180.0,Store_3180,Los Angeles
+3181.0,Store_3181,New York
+3182.0,Store_3182,Houston
+3183.0,Store_3183,Phoenix
+3184.0,Store_3184,New York
+,Store_3185,Los Angeles
+3186.0,Store_3186,Chicago
+3187.0,Store_3187,Chicago
+3188.0,Store_3188,New York
+3189.0,Store_3189,Houston
+3190.0,Store_3190,Houston
+3191.0,Store_3191,Los Angeles
+3192.0,Store_3192,Phoenix
+3193.0,Store_3193,New York
+3194.0,Store_3194,Houston
+3195.0,Store_3195,Phoenix
+3196.0,Store_3196,New York
+3197.0,Store_3197,Phoenix
+3198.0,Store_3198,Phoenix
+3199.0,Store_3199,Houston
+3200.0,Store_3200,Chicago
+3201.0,Store_3201,Phoenix
+3202.0,Store_3202,Houston
+3203.0,Store_3203,Phoenix
+3204.0,Store_3204,Chicago
+3205.0,Store_3205,Phoenix
+3206.0,Store_3206,Phoenix
+3207.0,Store_3207,New York
+3208.0,Store_3208,Phoenix
+3209.0,Store_3209,New York
+3210.0,Store_3210,Chicago
+3211.0,Store_3211,Phoenix
+3212.0,Store_3212,Phoenix
+3213.0,Store_3213,Phoenix
+,Store_3214,Los Angeles
+3215.0,Store_3215,Phoenix
+,Store_3216,Houston
+3217.0,Store_3217,New York
+3218.0,Store_3218,Los Angeles
+3219.0,Store_3219,Los Angeles
+3220.0,Store_3220,Chicago
+3221.0,Store_3221,Los Angeles
+3222.0,Store_3222,Houston
+,Store_3223,Houston
+3224.0,Store_3224,Houston
+3225.0,Store_3225,Phoenix
+3226.0,Store_3226,Chicago
+3227.0,Store_3227,Chicago
+3228.0,Store_3228,New York
+3229.0,Store_3229,Los Angeles
+3230.0,Store_3230,Los Angeles
+3231.0,Store_3231,Houston
+3232.0,Store_3232,Los Angeles
+3233.0,Store_3233,Phoenix
+3234.0,Store_3234,Los Angeles
+3235.0,Store_3235,Los Angeles
+3236.0,Store_3236,Chicago
+3237.0,Store_3237,Houston
+3238.0,Store_3238,Los Angeles
+3239.0,Store_3239,Chicago
+3240.0,Store_3240,Phoenix
+3241.0,Store_3241,Chicago
+3242.0,Store_3242,New York
+3243.0,Store_3243,Los Angeles
+3244.0,Store_3244,Chicago
+3245.0,Store_3245,Houston
+3246.0,Store_3246,Los Angeles
+3247.0,Store_3247,Phoenix
+3248.0,Store_3248,Chicago
+,Store_3249,New York
+3250.0,Store_3250,Houston
+3251.0,Store_3251,Phoenix
+3252.0,Store_3252,New York
+3253.0,Store_3253,Chicago
+,Store_3254,New York
+3255.0,Store_3255,Los Angeles
+3256.0,Store_3256,Chicago
+3257.0,Store_3257,Phoenix
+3258.0,Store_3258,New York
+3259.0,Store_3259,Los Angeles
+3260.0,Store_3260,New York
+3261.0,Store_3261,New York
+3262.0,Store_3262,Chicago
+3263.0,Store_3263,Chicago
+3264.0,Store_3264,Houston
+3265.0,Store_3265,Chicago
+3266.0,Store_3266,Los Angeles
+3267.0,Store_3267,Los Angeles
+3268.0,Store_3268,Los Angeles
+3269.0,Store_3269,Phoenix
+3270.0,Store_3270,Phoenix
+3271.0,Store_3271,Chicago
+3272.0,Store_3272,Chicago
+3273.0,Store_3273,New York
+3274.0,Store_3274,Chicago
+3275.0,Store_3275,Los Angeles
+3276.0,Store_3276,Houston
+3277.0,Store_3277,Los Angeles
+3278.0,Store_3278,Phoenix
+3279.0,Store_3279,Chicago
+3280.0,Store_3280,Los Angeles
+3281.0,Store_3281,New York
+3282.0,Store_3282,New York
+3283.0,Store_3283,Los Angeles
+3284.0,Store_3284,Chicago
+3285.0,Store_3285,Los Angeles
+3286.0,Store_3286,Chicago
+3287.0,Store_3287,Los Angeles
+3288.0,Store_3288,Houston
+3289.0,Store_3289,Los Angeles
+3290.0,Store_3290,Houston
+3291.0,Store_3291,Phoenix
+3292.0,Store_3292,Chicago
+3293.0,Store_3293,Chicago
+3294.0,Store_3294,Houston
+3295.0,Store_3295,Phoenix
+3296.0,Store_3296,New York
+3297.0,Store_3297,Phoenix
+3298.0,Store_3298,Phoenix
+3299.0,Store_3299,Phoenix
+3300.0,Store_3300,Phoenix
+3301.0,Store_3301,Chicago
+3302.0,Store_3302,Chicago
+3303.0,Store_3303,New York
+3304.0,Store_3304,New York
+3305.0,Store_3305,Phoenix
+3306.0,Store_3306,Phoenix
+3307.0,Store_3307,Chicago
+3308.0,Store_3308,Los Angeles
+3309.0,Store_3309,Houston
+3310.0,Store_3310,Phoenix
+3311.0,Store_3311,New York
+3312.0,Store_3312,New York
+3313.0,Store_3313,Houston
+3314.0,Store_3314,New York
+3315.0,Store_3315,Phoenix
+3316.0,Store_3316,Phoenix
+3317.0,Store_3317,Los Angeles
+3318.0,Store_3318,New York
+3319.0,Store_3319,Chicago
+3320.0,Store_3320,New York
+3321.0,Store_3321,Los Angeles
+3322.0,Store_3322,Houston
+3323.0,Store_3323,Chicago
+3324.0,Store_3324,Houston
+3325.0,Store_3325,Los Angeles
+3326.0,Store_3326,Phoenix
+3327.0,Store_3327,Phoenix
+,Store_3328,New York
+3329.0,Store_3329,Houston
+3330.0,Store_3330,Phoenix
+,Store_3331,Los Angeles
+3332.0,Store_3332,Houston
+3333.0,Store_3333,Chicago
+3334.0,Store_3334,New York
+3335.0,Store_3335,New York
+3336.0,Store_3336,New York
+3337.0,Store_3337,Chicago
+3338.0,Store_3338,Chicago
+3339.0,Store_3339,Chicago
+3340.0,Store_3340,New York
+3341.0,Store_3341,Phoenix
+3342.0,Store_3342,Chicago
+3343.0,Store_3343,Phoenix
+3344.0,Store_3344,Phoenix
+3345.0,Store_3345,Chicago
+3346.0,Store_3346,Los Angeles
+3347.0,Store_3347,Chicago
+3348.0,Store_3348,Houston
+3349.0,Store_3349,Houston
+3350.0,Store_3350,Los Angeles
+3351.0,Store_3351,Los Angeles
+3352.0,Store_3352,Chicago
+3353.0,Store_3353,Chicago
+,Store_3354,Houston
+3355.0,Store_3355,Houston
+3356.0,Store_3356,New York
+3357.0,Store_3357,Los Angeles
+3358.0,Store_3358,Los Angeles
+3359.0,Store_3359,New York
+3360.0,Store_3360,Houston
+3361.0,Store_3361,Chicago
+,Store_3362,Los Angeles
+3363.0,Store_3363,Chicago
+3364.0,Store_3364,Chicago
+,Store_3365,Phoenix
+3366.0,Store_3366,New York
+3367.0,Store_3367,Houston
+3368.0,Store_3368,Chicago
+3369.0,Store_3369,Los Angeles
+3370.0,Store_3370,Los Angeles
+3371.0,Store_3371,Houston
+3372.0,Store_3372,Chicago
+3373.0,Store_3373,Los Angeles
+3374.0,Store_3374,Chicago
+3375.0,Store_3375,Phoenix
+,Store_3376,Chicago
+3377.0,Store_3377,Los Angeles
+3378.0,Store_3378,Chicago
+3379.0,Store_3379,Chicago
+3380.0,Store_3380,Houston
+3381.0,Store_3381,New York
+3382.0,Store_3382,Houston
+,Store_3383,Los Angeles
+3384.0,Store_3384,Los Angeles
+3385.0,Store_3385,Los Angeles
+3386.0,Store_3386,Los Angeles
+3387.0,Store_3387,Houston
+3388.0,Store_3388,Phoenix
+3389.0,Store_3389,Chicago
+3390.0,Store_3390,Houston
+3391.0,Store_3391,New York
+3392.0,Store_3392,New York
+3393.0,Store_3393,New York
+3394.0,Store_3394,Houston
+3395.0,Store_3395,Chicago
+3396.0,Store_3396,Phoenix
+3397.0,Store_3397,Houston
+3398.0,Store_3398,Phoenix
+3399.0,Store_3399,Chicago
+,Store_3400,New York
+3401.0,Store_3401,Houston
+3402.0,Store_3402,Chicago
+3403.0,Store_3403,Los Angeles
+3404.0,Store_3404,New York
+3405.0,Store_3405,Phoenix
+3406.0,Store_3406,Chicago
+3407.0,Store_3407,Houston
+3408.0,Store_3408,New York
+3409.0,Store_3409,Chicago
+3410.0,Store_3410,Chicago
+3411.0,Store_3411,New York
+3412.0,Store_3412,Houston
+3413.0,Store_3413,Houston
+3414.0,Store_3414,Phoenix
+3415.0,Store_3415,Chicago
+3416.0,Store_3416,Los Angeles
+3417.0,Store_3417,Houston
+3418.0,Store_3418,Chicago
+3419.0,Store_3419,Los Angeles
+3420.0,Store_3420,Los Angeles
+3421.0,Store_3421,Phoenix
+3422.0,Store_3422,New York
+3423.0,Store_3423,Los Angeles
+3424.0,Store_3424,Chicago
+3425.0,Store_3425,Chicago
+3426.0,Store_3426,Los Angeles
+3427.0,Store_3427,Chicago
+3428.0,Store_3428,Houston
+3429.0,Store_3429,Phoenix
+3430.0,Store_3430,Houston
+3431.0,Store_3431,New York
+3432.0,Store_3432,Los Angeles
+3433.0,Store_3433,Los Angeles
+3434.0,Store_3434,Chicago
+3435.0,Store_3435,Los Angeles
+3436.0,Store_3436,New York
+3437.0,Store_3437,New York
+3438.0,Store_3438,Los Angeles
+3439.0,Store_3439,New York
+3440.0,Store_3440,New York
+,Store_3441,Los Angeles
+3442.0,Store_3442,Phoenix
+3443.0,Store_3443,New York
+3444.0,Store_3444,Houston
+3445.0,Store_3445,Chicago
+3446.0,Store_3446,Houston
+3447.0,Store_3447,Phoenix
+3448.0,Store_3448,Phoenix
+3449.0,Store_3449,Phoenix
+3450.0,Store_3450,Los Angeles
+3451.0,Store_3451,Chicago
+3452.0,Store_3452,Phoenix
+3453.0,Store_3453,Chicago
+3454.0,Store_3454,New York
+3455.0,Store_3455,Houston
+3456.0,Store_3456,Chicago
+3457.0,Store_3457,Chicago
+3458.0,Store_3458,Los Angeles
+3459.0,Store_3459,Houston
+3460.0,Store_3460,New York
+,Store_3461,Phoenix
+3462.0,Store_3462,Chicago
+3463.0,Store_3463,Los Angeles
+3464.0,Store_3464,Chicago
+3465.0,Store_3465,Houston
+3466.0,Store_3466,Houston
+3467.0,Store_3467,Houston
+3468.0,Store_3468,Houston
+3469.0,Store_3469,Houston
+,Store_3470,Los Angeles
+3471.0,Store_3471,Los Angeles
+3472.0,Store_3472,Chicago
+3473.0,Store_3473,New York
+3474.0,Store_3474,New York
+3475.0,Store_3475,Houston
+3476.0,Store_3476,New York
+3477.0,Store_3477,Phoenix
+3478.0,Store_3478,Chicago
+3479.0,Store_3479,Los Angeles
+3480.0,Store_3480,Los Angeles
+3481.0,Store_3481,Houston
+3482.0,Store_3482,Chicago
+3483.0,Store_3483,Phoenix
+,Store_3484,Houston
+3485.0,Store_3485,Chicago
+3486.0,Store_3486,Phoenix
+3487.0,Store_3487,Los Angeles
+3488.0,Store_3488,Los Angeles
+3489.0,Store_3489,Phoenix
+3490.0,Store_3490,Chicago
+3491.0,Store_3491,Chicago
+3492.0,Store_3492,Houston
+3493.0,Store_3493,Los Angeles
+3494.0,Store_3494,Chicago
+3495.0,Store_3495,New York
+3496.0,Store_3496,Houston
+3497.0,Store_3497,Phoenix
+3498.0,Store_3498,Houston
+3499.0,Store_3499,Phoenix
+3500.0,Store_3500,New York
+3501.0,Store_3501,Los Angeles
+3502.0,Store_3502,New York
+3503.0,Store_3503,New York
+3504.0,Store_3504,New York
+3505.0,Store_3505,New York
+3506.0,Store_3506,Los Angeles
+3507.0,Store_3507,Houston
+3508.0,Store_3508,Los Angeles
+3509.0,Store_3509,Houston
+3510.0,Store_3510,Houston
+3511.0,Store_3511,Houston
+3512.0,Store_3512,Chicago
+3513.0,Store_3513,Phoenix
+3514.0,Store_3514,Los Angeles
+3515.0,Store_3515,Phoenix
+,Store_3516,New York
+3517.0,Store_3517,Chicago
+3518.0,Store_3518,Phoenix
+3519.0,Store_3519,Phoenix
+3520.0,Store_3520,Houston
+3521.0,Store_3521,Houston
+3522.0,Store_3522,Phoenix
+3523.0,Store_3523,Chicago
+3524.0,Store_3524,Chicago
+3525.0,Store_3525,Chicago
+3526.0,Store_3526,Los Angeles
+3527.0,Store_3527,Los Angeles
+3528.0,Store_3528,Los Angeles
+3529.0,Store_3529,Phoenix
+3530.0,Store_3530,Chicago
+3531.0,Store_3531,Los Angeles
+3532.0,Store_3532,Phoenix
+3533.0,Store_3533,Los Angeles
+3534.0,Store_3534,New York
+3535.0,Store_3535,New York
+3536.0,Store_3536,Phoenix
+3537.0,Store_3537,Chicago
+3538.0,Store_3538,Houston
+3539.0,Store_3539,Chicago
+3540.0,Store_3540,Phoenix
+3541.0,Store_3541,Phoenix
+3542.0,Store_3542,Phoenix
+3543.0,Store_3543,Chicago
+3544.0,Store_3544,Chicago
+,Store_3545,Phoenix
+3546.0,Store_3546,Houston
+3547.0,Store_3547,Chicago
+3548.0,Store_3548,New York
+3549.0,Store_3549,Houston
+3550.0,Store_3550,Phoenix
+3551.0,Store_3551,New York
+3552.0,Store_3552,New York
+3553.0,Store_3553,Los Angeles
+3554.0,Store_3554,Phoenix
+3555.0,Store_3555,Houston
+3556.0,Store_3556,Chicago
+3557.0,Store_3557,Phoenix
+3558.0,Store_3558,New York
+3559.0,Store_3559,Chicago
+3560.0,Store_3560,Chicago
+3561.0,Store_3561,Los Angeles
+3562.0,Store_3562,Phoenix
+3563.0,Store_3563,Chicago
+3564.0,Store_3564,Chicago
+3565.0,Store_3565,Houston
+3566.0,Store_3566,New York
+3567.0,Store_3567,Phoenix
+3568.0,Store_3568,New York
+3569.0,Store_3569,Houston
+3570.0,Store_3570,Chicago
+3571.0,Store_3571,Los Angeles
+3572.0,Store_3572,Phoenix
+3573.0,Store_3573,Phoenix
+3574.0,Store_3574,Houston
+3575.0,Store_3575,Chicago
+3576.0,Store_3576,New York
+3577.0,Store_3577,Phoenix
+3578.0,Store_3578,Los Angeles
+3579.0,Store_3579,Phoenix
+3580.0,Store_3580,Los Angeles
+3581.0,Store_3581,New York
+3582.0,Store_3582,Houston
+3583.0,Store_3583,Los Angeles
+3584.0,Store_3584,Houston
+3585.0,Store_3585,Los Angeles
+3586.0,Store_3586,Los Angeles
+3587.0,Store_3587,Chicago
+3588.0,Store_3588,Phoenix
+3589.0,Store_3589,Houston
+3590.0,Store_3590,New York
+3591.0,Store_3591,New York
+3592.0,Store_3592,Chicago
+3593.0,Store_3593,Houston
+3594.0,Store_3594,Phoenix
+3595.0,Store_3595,Phoenix
+3596.0,Store_3596,Houston
+3597.0,Store_3597,New York
+3598.0,Store_3598,Chicago
+3599.0,Store_3599,Houston
+3600.0,Store_3600,New York
+3601.0,Store_3601,Houston
+3602.0,Store_3602,Chicago
+3603.0,Store_3603,Houston
+3604.0,Store_3604,New York
+,Store_3605,Houston
+3606.0,Store_3606,Phoenix
+3607.0,Store_3607,Houston
+3608.0,Store_3608,New York
+3609.0,Store_3609,Phoenix
+3610.0,Store_3610,Houston
+3611.0,Store_3611,Phoenix
+3612.0,Store_3612,Phoenix
+3613.0,Store_3613,Houston
+3614.0,Store_3614,Chicago
+3615.0,Store_3615,Phoenix
+3616.0,Store_3616,New York
+3617.0,Store_3617,Los Angeles
+3618.0,Store_3618,Phoenix
+,Store_3619,Phoenix
+3620.0,Store_3620,Houston
+3621.0,Store_3621,New York
+3622.0,Store_3622,Houston
+3623.0,Store_3623,Los Angeles
+3624.0,Store_3624,New York
+3625.0,Store_3625,Phoenix
+3626.0,Store_3626,Phoenix
+3627.0,Store_3627,Los Angeles
+3628.0,Store_3628,Houston
+3629.0,Store_3629,New York
+3630.0,Store_3630,New York
+3631.0,Store_3631,New York
+,Store_3632,Houston
+3633.0,Store_3633,Chicago
+3634.0,Store_3634,New York
+,Store_3635,New York
+3636.0,Store_3636,New York
+3637.0,Store_3637,New York
+3638.0,Store_3638,Houston
+3639.0,Store_3639,Houston
+3640.0,Store_3640,New York
+3641.0,Store_3641,Houston
+3642.0,Store_3642,Houston
+3643.0,Store_3643,Los Angeles
+3644.0,Store_3644,Los Angeles
+3645.0,Store_3645,New York
+3646.0,Store_3646,New York
+3647.0,Store_3647,Houston
+3648.0,Store_3648,Phoenix
+3649.0,Store_3649,Chicago
+3650.0,Store_3650,Los Angeles
+3651.0,Store_3651,New York
+3652.0,Store_3652,Phoenix
+3653.0,Store_3653,New York
+3654.0,Store_3654,Los Angeles
+3655.0,Store_3655,Houston
+3656.0,Store_3656,Phoenix
+,Store_3657,New York
+3658.0,Store_3658,Phoenix
+3659.0,Store_3659,Phoenix
+3660.0,Store_3660,Houston
+3661.0,Store_3661,Chicago
+3662.0,Store_3662,Houston
+3663.0,Store_3663,Chicago
+3664.0,Store_3664,Phoenix
+3665.0,Store_3665,Houston
+3666.0,Store_3666,Chicago
+3667.0,Store_3667,Los Angeles
+3668.0,Store_3668,Phoenix
+3669.0,Store_3669,Los Angeles
+3670.0,Store_3670,New York
+3671.0,Store_3671,Phoenix
+3672.0,Store_3672,Houston
+3673.0,Store_3673,New York
+3674.0,Store_3674,New York
+3675.0,Store_3675,New York
+3676.0,Store_3676,Chicago
+3677.0,Store_3677,New York
+3678.0,Store_3678,New York
+3679.0,Store_3679,Houston
+3680.0,Store_3680,Chicago
+3681.0,Store_3681,Phoenix
+,Store_3682,Houston
+3683.0,Store_3683,Houston
+3684.0,Store_3684,Phoenix
+3685.0,Store_3685,Chicago
+3686.0,Store_3686,New York
+3687.0,Store_3687,Los Angeles
+,Store_3688,Houston
+3689.0,Store_3689,Phoenix
+3690.0,Store_3690,New York
+3691.0,Store_3691,Phoenix
+3692.0,Store_3692,Chicago
+3693.0,Store_3693,New York
+3694.0,Store_3694,Phoenix
+3695.0,Store_3695,Chicago
+3696.0,Store_3696,Chicago
+3697.0,Store_3697,Chicago
+3698.0,Store_3698,Los Angeles
+3699.0,Store_3699,Houston
+3700.0,Store_3700,Phoenix
+3701.0,Store_3701,Phoenix
+3702.0,Store_3702,Los Angeles
+3703.0,Store_3703,Chicago
+3704.0,Store_3704,New York
+3705.0,Store_3705,New York
+3706.0,Store_3706,New York
+3707.0,Store_3707,New York
+3708.0,Store_3708,Phoenix
+3709.0,Store_3709,Phoenix
+3710.0,Store_3710,Chicago
+3711.0,Store_3711,New York
+3712.0,Store_3712,Phoenix
+3713.0,Store_3713,Chicago
+3714.0,Store_3714,Houston
+3715.0,Store_3715,Phoenix
+3716.0,Store_3716,Houston
+3717.0,Store_3717,Los Angeles
+3718.0,Store_3718,Chicago
+3719.0,Store_3719,Los Angeles
+3720.0,Store_3720,Houston
+3721.0,Store_3721,Houston
+3722.0,Store_3722,Phoenix
+3723.0,Store_3723,Chicago
+3724.0,Store_3724,Phoenix
+3725.0,Store_3725,Los Angeles
+,Store_3726,Los Angeles
+3727.0,Store_3727,Houston
+,Store_3728,Houston
+3729.0,Store_3729,Los Angeles
+3730.0,Store_3730,Los Angeles
+3731.0,Store_3731,Phoenix
+3732.0,Store_3732,Phoenix
+3733.0,Store_3733,New York
+3734.0,Store_3734,Houston
+3735.0,Store_3735,Los Angeles
+3736.0,Store_3736,Los Angeles
+3737.0,Store_3737,Chicago
+3738.0,Store_3738,Los Angeles
+3739.0,Store_3739,Houston
+3740.0,Store_3740,New York
+3741.0,Store_3741,Los Angeles
+3742.0,Store_3742,Houston
+3743.0,Store_3743,New York
+3744.0,Store_3744,Chicago
+3745.0,Store_3745,Chicago
+3746.0,Store_3746,Phoenix
+3747.0,Store_3747,Los Angeles
+,Store_3748,Houston
+3749.0,Store_3749,Houston
+3750.0,Store_3750,Los Angeles
+3751.0,Store_3751,New York
+3752.0,Store_3752,Phoenix
+3753.0,Store_3753,Los Angeles
+3754.0,Store_3754,Chicago
+3755.0,Store_3755,Los Angeles
+3756.0,Store_3756,Houston
+3757.0,Store_3757,Los Angeles
+3758.0,Store_3758,Houston
+3759.0,Store_3759,Houston
+3760.0,Store_3760,Phoenix
+3761.0,Store_3761,New York
+3762.0,Store_3762,Los Angeles
+3763.0,Store_3763,Los Angeles
+3764.0,Store_3764,New York
+3765.0,Store_3765,Phoenix
+3766.0,Store_3766,Los Angeles
+3767.0,Store_3767,Phoenix
+3768.0,Store_3768,Houston
+3769.0,Store_3769,Chicago
+3770.0,Store_3770,New York
+3771.0,Store_3771,Phoenix
+3772.0,Store_3772,Chicago
+3773.0,Store_3773,New York
+3774.0,Store_3774,Houston
+3775.0,Store_3775,New York
+3776.0,Store_3776,Chicago
+3777.0,Store_3777,Los Angeles
+3778.0,Store_3778,Chicago
+3779.0,Store_3779,Phoenix
+3780.0,Store_3780,Chicago
+3781.0,Store_3781,New York
+3782.0,Store_3782,New York
+3783.0,Store_3783,Chicago
+3784.0,Store_3784,Houston
+3785.0,Store_3785,Houston
+3786.0,Store_3786,Phoenix
+3787.0,Store_3787,Houston
+3788.0,Store_3788,New York
+3789.0,Store_3789,New York
+3790.0,Store_3790,Los Angeles
+3791.0,Store_3791,Los Angeles
+3792.0,Store_3792,Chicago
+3793.0,Store_3793,Houston
+3794.0,Store_3794,Phoenix
+3795.0,Store_3795,New York
+3796.0,Store_3796,Houston
+3797.0,Store_3797,Chicago
+3798.0,Store_3798,Chicago
+3799.0,Store_3799,Los Angeles
+3800.0,Store_3800,Los Angeles
+3801.0,Store_3801,Houston
+3802.0,Store_3802,Los Angeles
+3803.0,Store_3803,Houston
+3804.0,Store_3804,Phoenix
+3805.0,Store_3805,Chicago
+3806.0,Store_3806,Phoenix
+3807.0,Store_3807,Phoenix
+3808.0,Store_3808,Chicago
+3809.0,Store_3809,Phoenix
+3810.0,Store_3810,Houston
+3811.0,Store_3811,Los Angeles
+,Store_3812,Chicago
+3813.0,Store_3813,Phoenix
+3814.0,Store_3814,Los Angeles
+3815.0,Store_3815,Phoenix
+3816.0,Store_3816,Los Angeles
+3817.0,Store_3817,Chicago
+3818.0,Store_3818,New York
+3819.0,Store_3819,Houston
+3820.0,Store_3820,Houston
+3821.0,Store_3821,New York
+3822.0,Store_3822,Los Angeles
+,Store_3823,Phoenix
+3824.0,Store_3824,Los Angeles
+3825.0,Store_3825,Phoenix
+3826.0,Store_3826,Los Angeles
+3827.0,Store_3827,New York
+3828.0,Store_3828,Houston
+3829.0,Store_3829,Houston
+3830.0,Store_3830,Phoenix
+3831.0,Store_3831,Phoenix
+3832.0,Store_3832,Houston
+3833.0,Store_3833,Los Angeles
+3834.0,Store_3834,Houston
+3835.0,Store_3835,Los Angeles
+,Store_3836,Houston
+3837.0,Store_3837,Los Angeles
+3838.0,Store_3838,New York
+3839.0,Store_3839,Los Angeles
+3840.0,Store_3840,Houston
+,Store_3841,New York
+3842.0,Store_3842,Phoenix
+3843.0,Store_3843,Chicago
+3844.0,Store_3844,New York
+,Store_3845,Chicago
+3846.0,Store_3846,Houston
+3847.0,Store_3847,Houston
+3848.0,Store_3848,Houston
+3849.0,Store_3849,New York
+3850.0,Store_3850,Chicago
+3851.0,Store_3851,Chicago
+3852.0,Store_3852,Phoenix
+3853.0,Store_3853,New York
+3854.0,Store_3854,Houston
+3855.0,Store_3855,Phoenix
+3856.0,Store_3856,Los Angeles
+3857.0,Store_3857,Phoenix
+3858.0,Store_3858,Houston
+3859.0,Store_3859,Los Angeles
+3860.0,Store_3860,Chicago
+3861.0,Store_3861,Chicago
+3862.0,Store_3862,Houston
+3863.0,Store_3863,Los Angeles
+3864.0,Store_3864,Houston
+3865.0,Store_3865,New York
+3866.0,Store_3866,Chicago
+3867.0,Store_3867,Phoenix
+3868.0,Store_3868,Chicago
+3869.0,Store_3869,Chicago
+3870.0,Store_3870,New York
+3871.0,Store_3871,New York
+3872.0,Store_3872,New York
+,Store_3873,Chicago
+3874.0,Store_3874,New York
+,Store_3875,Houston
+3876.0,Store_3876,New York
+3877.0,Store_3877,Chicago
+3878.0,Store_3878,Chicago
+3879.0,Store_3879,Los Angeles
+3880.0,Store_3880,New York
+3881.0,Store_3881,Los Angeles
+3882.0,Store_3882,New York
+3883.0,Store_3883,Chicago
+3884.0,Store_3884,Houston
+,Store_3885,Phoenix
+3886.0,Store_3886,Los Angeles
+3887.0,Store_3887,Houston
+3888.0,Store_3888,Los Angeles
+3889.0,Store_3889,New York
+3890.0,Store_3890,Los Angeles
+3891.0,Store_3891,Chicago
+3892.0,Store_3892,Phoenix
+3893.0,Store_3893,Houston
+3894.0,Store_3894,Houston
+3895.0,Store_3895,Phoenix
+3896.0,Store_3896,Los Angeles
+3897.0,Store_3897,Phoenix
+3898.0,Store_3898,Chicago
+3899.0,Store_3899,Los Angeles
+3900.0,Store_3900,Chicago
+3901.0,Store_3901,Phoenix
+3902.0,Store_3902,Chicago
+3903.0,Store_3903,Los Angeles
+3904.0,Store_3904,Phoenix
+3905.0,Store_3905,Los Angeles
+3906.0,Store_3906,Los Angeles
+3907.0,Store_3907,Los Angeles
+3908.0,Store_3908,Phoenix
+3909.0,Store_3909,New York
+3910.0,Store_3910,Chicago
+3911.0,Store_3911,Phoenix
+3912.0,Store_3912,Phoenix
+3913.0,Store_3913,Chicago
+3914.0,Store_3914,Los Angeles
+3915.0,Store_3915,New York
+3916.0,Store_3916,New York
+,Store_3917,Houston
+3918.0,Store_3918,Los Angeles
+3919.0,Store_3919,Houston
+3920.0,Store_3920,Houston
+3921.0,Store_3921,Houston
+3922.0,Store_3922,Chicago
+3923.0,Store_3923,Phoenix
+3924.0,Store_3924,Los Angeles
+3925.0,Store_3925,New York
+3926.0,Store_3926,New York
+3927.0,Store_3927,Chicago
+3928.0,Store_3928,New York
+3929.0,Store_3929,New York
+,Store_3930,Los Angeles
+3931.0,Store_3931,Chicago
+3932.0,Store_3932,Phoenix
+3933.0,Store_3933,Los Angeles
+3934.0,Store_3934,Houston
+3935.0,Store_3935,Phoenix
+3936.0,Store_3936,Los Angeles
+3937.0,Store_3937,Phoenix
+3938.0,Store_3938,Los Angeles
+3939.0,Store_3939,New York
+3940.0,Store_3940,Chicago
+3941.0,Store_3941,Phoenix
+3942.0,Store_3942,Houston
+3943.0,Store_3943,Phoenix
+3944.0,Store_3944,Phoenix
+3945.0,Store_3945,Phoenix
+3946.0,Store_3946,Chicago
+3947.0,Store_3947,New York
+3948.0,Store_3948,Phoenix
+,Store_3949,Chicago
+3950.0,Store_3950,Chicago
+3951.0,Store_3951,Los Angeles
+3952.0,Store_3952,New York
+3953.0,Store_3953,Phoenix
+3954.0,Store_3954,Phoenix
+3955.0,Store_3955,Houston
+3956.0,Store_3956,Los Angeles
+3957.0,Store_3957,Chicago
+3958.0,Store_3958,New York
+3959.0,Store_3959,Phoenix
+3960.0,Store_3960,Phoenix
+3961.0,Store_3961,Houston
+3962.0,Store_3962,Phoenix
+3963.0,Store_3963,New York
+3964.0,Store_3964,Los Angeles
+3965.0,Store_3965,Houston
+3966.0,Store_3966,Chicago
+3967.0,Store_3967,Chicago
+3968.0,Store_3968,Los Angeles
+3969.0,Store_3969,Los Angeles
+3970.0,Store_3970,New York
+3971.0,Store_3971,Chicago
+3972.0,Store_3972,New York
+3973.0,Store_3973,New York
+3974.0,Store_3974,Houston
+3975.0,Store_3975,Houston
+3976.0,Store_3976,Houston
+3977.0,Store_3977,New York
+3978.0,Store_3978,Chicago
+3979.0,Store_3979,Phoenix
+3980.0,Store_3980,Chicago
+3981.0,Store_3981,New York
+3982.0,Store_3982,Houston
+3983.0,Store_3983,New York
+3984.0,Store_3984,Los Angeles
+3985.0,Store_3985,Chicago
+3986.0,Store_3986,Chicago
+3987.0,Store_3987,New York
+3988.0,Store_3988,Phoenix
+3989.0,Store_3989,Chicago
+3990.0,Store_3990,New York
+3991.0,Store_3991,Phoenix
+3992.0,Store_3992,Chicago
+3993.0,Store_3993,Phoenix
+3994.0,Store_3994,New York
+3995.0,Store_3995,Los Angeles
+3996.0,Store_3996,New York
+3997.0,Store_3997,Phoenix
+3998.0,Store_3998,Phoenix
+3999.0,Store_3999,Los Angeles
+4000.0,Store_4000,Houston
+4001.0,Store_4001,Los Angeles
+4002.0,Store_4002,Chicago
+4003.0,Store_4003,New York
+4004.0,Store_4004,Houston
+4005.0,Store_4005,Chicago
+4006.0,Store_4006,Chicago
+4007.0,Store_4007,Houston
+4008.0,Store_4008,Chicago
+,Store_4009,Chicago
+4010.0,Store_4010,Phoenix
+4011.0,Store_4011,Los Angeles
+4012.0,Store_4012,Chicago
+4013.0,Store_4013,Houston
+4014.0,Store_4014,Phoenix
+4015.0,Store_4015,New York
+4016.0,Store_4016,Chicago
+,Store_4017,Phoenix
+4018.0,Store_4018,Los Angeles
+4019.0,Store_4019,Houston
+,Store_4020,Los Angeles
+4021.0,Store_4021,Los Angeles
+4022.0,Store_4022,Chicago
+4023.0,Store_4023,Chicago
+,Store_4024,New York
+4025.0,Store_4025,New York
+4026.0,Store_4026,Houston
+4027.0,Store_4027,Phoenix
+4028.0,Store_4028,Houston
+4029.0,Store_4029,Houston
+4030.0,Store_4030,Chicago
+4031.0,Store_4031,Phoenix
+4032.0,Store_4032,Phoenix
+4033.0,Store_4033,Houston
+4034.0,Store_4034,Chicago
+4035.0,Store_4035,Phoenix
+4036.0,Store_4036,New York
+4037.0,Store_4037,Houston
+4038.0,Store_4038,Los Angeles
+4039.0,Store_4039,Chicago
+4040.0,Store_4040,Houston
+4041.0,Store_4041,New York
+4042.0,Store_4042,Chicago
+4043.0,Store_4043,Phoenix
+4044.0,Store_4044,Los Angeles
+4045.0,Store_4045,Los Angeles
+4046.0,Store_4046,Los Angeles
+4047.0,Store_4047,New York
+4048.0,Store_4048,Chicago
+4049.0,Store_4049,Los Angeles
+4050.0,Store_4050,Houston
+4051.0,Store_4051,Chicago
+,Store_4052,Houston
+4053.0,Store_4053,Houston
+4054.0,Store_4054,Phoenix
+4055.0,Store_4055,Chicago
+4056.0,Store_4056,Houston
+4057.0,Store_4057,Chicago
+4058.0,Store_4058,Chicago
+4059.0,Store_4059,Phoenix
+4060.0,Store_4060,Chicago
+4061.0,Store_4061,New York
+4062.0,Store_4062,Chicago
+4063.0,Store_4063,Chicago
+4064.0,Store_4064,Phoenix
+4065.0,Store_4065,Los Angeles
+4066.0,Store_4066,Phoenix
+4067.0,Store_4067,New York
+4068.0,Store_4068,Phoenix
+4069.0,Store_4069,Phoenix
+4070.0,Store_4070,Los Angeles
+4071.0,Store_4071,Phoenix
+4072.0,Store_4072,Los Angeles
+4073.0,Store_4073,New York
+4074.0,Store_4074,Chicago
+4075.0,Store_4075,New York
+4076.0,Store_4076,Chicago
+4077.0,Store_4077,Los Angeles
+4078.0,Store_4078,Houston
+4079.0,Store_4079,Phoenix
+4080.0,Store_4080,New York
+4081.0,Store_4081,Los Angeles
+4082.0,Store_4082,Chicago
+4083.0,Store_4083,New York
+4084.0,Store_4084,New York
+4085.0,Store_4085,Phoenix
+4086.0,Store_4086,Los Angeles
+4087.0,Store_4087,Houston
+4088.0,Store_4088,Phoenix
+4089.0,Store_4089,Phoenix
+4090.0,Store_4090,Phoenix
+4091.0,Store_4091,Chicago
+4092.0,Store_4092,Houston
+4093.0,Store_4093,Phoenix
+4094.0,Store_4094,Houston
+4095.0,Store_4095,Houston
+4096.0,Store_4096,Los Angeles
+4097.0,Store_4097,Houston
+4098.0,Store_4098,Los Angeles
+4099.0,Store_4099,Phoenix
+4100.0,Store_4100,Houston
+4101.0,Store_4101,Phoenix
+4102.0,Store_4102,Houston
+4103.0,Store_4103,New York
+4104.0,Store_4104,Houston
+4105.0,Store_4105,Phoenix
+4106.0,Store_4106,Phoenix
+4107.0,Store_4107,Phoenix
+4108.0,Store_4108,New York
+4109.0,Store_4109,Chicago
+4110.0,Store_4110,New York
+4111.0,Store_4111,Los Angeles
+4112.0,Store_4112,Houston
+4113.0,Store_4113,Los Angeles
+4114.0,Store_4114,Houston
+4115.0,Store_4115,Los Angeles
+4116.0,Store_4116,New York
+,Store_4117,Houston
+4118.0,Store_4118,Phoenix
+4119.0,Store_4119,New York
+4120.0,Store_4120,New York
+4121.0,Store_4121,Los Angeles
+4122.0,Store_4122,Los Angeles
+4123.0,Store_4123,Phoenix
+4124.0,Store_4124,Houston
+4125.0,Store_4125,Houston
+4126.0,Store_4126,Phoenix
+,Store_4127,Houston
+4128.0,Store_4128,Los Angeles
+4129.0,Store_4129,Houston
+4130.0,Store_4130,Los Angeles
+4131.0,Store_4131,New York
+4132.0,Store_4132,Chicago
+4133.0,Store_4133,Houston
+4134.0,Store_4134,Houston
+4135.0,Store_4135,Chicago
+4136.0,Store_4136,Los Angeles
+4137.0,Store_4137,Los Angeles
+4138.0,Store_4138,Los Angeles
+4139.0,Store_4139,Chicago
+4140.0,Store_4140,Phoenix
+4141.0,Store_4141,Phoenix
+4142.0,Store_4142,Phoenix
+4143.0,Store_4143,New York
+4144.0,Store_4144,Phoenix
+4145.0,Store_4145,Chicago
+4146.0,Store_4146,Chicago
+4147.0,Store_4147,Chicago
+4148.0,Store_4148,New York
+,Store_4149,New York
+,Store_4150,Los Angeles
+4151.0,Store_4151,Phoenix
+4152.0,Store_4152,Los Angeles
+4153.0,Store_4153,New York
+4154.0,Store_4154,Phoenix
+4155.0,Store_4155,Phoenix
+4156.0,Store_4156,Chicago
+4157.0,Store_4157,Houston
+4158.0,Store_4158,Los Angeles
+4159.0,Store_4159,Phoenix
+4160.0,Store_4160,Los Angeles
+4161.0,Store_4161,Phoenix
+4162.0,Store_4162,New York
+4163.0,Store_4163,New York
+4164.0,Store_4164,Phoenix
+4165.0,Store_4165,New York
+4166.0,Store_4166,New York
+4167.0,Store_4167,Los Angeles
+4168.0,Store_4168,Chicago
+4169.0,Store_4169,Chicago
+4170.0,Store_4170,Chicago
+4171.0,Store_4171,Chicago
+4172.0,Store_4172,Phoenix
+4173.0,Store_4173,Chicago
+4174.0,Store_4174,Chicago
+4175.0,Store_4175,New York
+4176.0,Store_4176,New York
+4177.0,Store_4177,Los Angeles
+4178.0,Store_4178,Phoenix
+4179.0,Store_4179,Houston
+4180.0,Store_4180,Los Angeles
+4181.0,Store_4181,Phoenix
+4182.0,Store_4182,Houston
+4183.0,Store_4183,Los Angeles
+4184.0,Store_4184,Los Angeles
+4185.0,Store_4185,Chicago
+4186.0,Store_4186,Phoenix
+4187.0,Store_4187,Phoenix
+4188.0,Store_4188,Houston
+4189.0,Store_4189,Los Angeles
+4190.0,Store_4190,Phoenix
+4191.0,Store_4191,New York
+4192.0,Store_4192,Chicago
+4193.0,Store_4193,Houston
+4194.0,Store_4194,New York
+4195.0,Store_4195,New York
+4196.0,Store_4196,Houston
+4197.0,Store_4197,New York
+4198.0,Store_4198,Phoenix
+4199.0,Store_4199,Houston
+4200.0,Store_4200,Los Angeles
+4201.0,Store_4201,New York
+4202.0,Store_4202,New York
+4203.0,Store_4203,Los Angeles
+4204.0,Store_4204,Houston
+4205.0,Store_4205,Los Angeles
+4206.0,Store_4206,Los Angeles
+4207.0,Store_4207,Phoenix
+4208.0,Store_4208,Chicago
+4209.0,Store_4209,Phoenix
+4210.0,Store_4210,New York
+4211.0,Store_4211,Los Angeles
+4212.0,Store_4212,Houston
+4213.0,Store_4213,Phoenix
+4214.0,Store_4214,Phoenix
+4215.0,Store_4215,Los Angeles
+4216.0,Store_4216,Houston
+4217.0,Store_4217,New York
+4218.0,Store_4218,Chicago
+4219.0,Store_4219,Los Angeles
+4220.0,Store_4220,Phoenix
+4221.0,Store_4221,Chicago
+4222.0,Store_4222,Houston
+4223.0,Store_4223,New York
+4224.0,Store_4224,Houston
+4225.0,Store_4225,Chicago
+,Store_4226,Los Angeles
+4227.0,Store_4227,Houston
+4228.0,Store_4228,Houston
+4229.0,Store_4229,Los Angeles
+4230.0,Store_4230,Houston
+4231.0,Store_4231,Phoenix
+,Store_4232,Los Angeles
+4233.0,Store_4233,Los Angeles
+4234.0,Store_4234,Los Angeles
+4235.0,Store_4235,Houston
+4236.0,Store_4236,Houston
+4237.0,Store_4237,Houston
+4238.0,Store_4238,Chicago
+4239.0,Store_4239,Chicago
+4240.0,Store_4240,Los Angeles
+4241.0,Store_4241,Los Angeles
+4242.0,Store_4242,Phoenix
+4243.0,Store_4243,Los Angeles
+4244.0,Store_4244,Houston
+4245.0,Store_4245,Phoenix
+4246.0,Store_4246,Chicago
+4247.0,Store_4247,Phoenix
+4248.0,Store_4248,Phoenix
+4249.0,Store_4249,New York
+4250.0,Store_4250,Los Angeles
+4251.0,Store_4251,Chicago
+4252.0,Store_4252,New York
+4253.0,Store_4253,New York
+4254.0,Store_4254,New York
+4255.0,Store_4255,Houston
+4256.0,Store_4256,Chicago
+4257.0,Store_4257,Phoenix
+4258.0,Store_4258,Houston
+4259.0,Store_4259,New York
+4260.0,Store_4260,Phoenix
+4261.0,Store_4261,Phoenix
+4262.0,Store_4262,Los Angeles
+4263.0,Store_4263,Phoenix
+,Store_4264,Chicago
+4265.0,Store_4265,Houston
+,Store_4266,Houston
+4267.0,Store_4267,Los Angeles
+4268.0,Store_4268,Phoenix
+4269.0,Store_4269,Houston
+4270.0,Store_4270,Phoenix
+4271.0,Store_4271,New York
+4272.0,Store_4272,Los Angeles
+4273.0,Store_4273,New York
+4274.0,Store_4274,Chicago
+4275.0,Store_4275,Los Angeles
+4276.0,Store_4276,Chicago
+4277.0,Store_4277,Houston
+4278.0,Store_4278,Houston
+4279.0,Store_4279,Chicago
+4280.0,Store_4280,Houston
+4281.0,Store_4281,Houston
+,Store_4282,Houston
+4283.0,Store_4283,Houston
+4284.0,Store_4284,Houston
+4285.0,Store_4285,Phoenix
+4286.0,Store_4286,New York
+4287.0,Store_4287,Los Angeles
+4288.0,Store_4288,Houston
+4289.0,Store_4289,New York
+4290.0,Store_4290,Phoenix
+,Store_4291,Phoenix
+4292.0,Store_4292,Houston
+4293.0,Store_4293,New York
+4294.0,Store_4294,Phoenix
+4295.0,Store_4295,Los Angeles
+4296.0,Store_4296,Phoenix
+4297.0,Store_4297,Phoenix
+4298.0,Store_4298,Chicago
+4299.0,Store_4299,Houston
+4300.0,Store_4300,Los Angeles
+4301.0,Store_4301,New York
+4302.0,Store_4302,New York
+4303.0,Store_4303,Houston
+4304.0,Store_4304,Los Angeles
+4305.0,Store_4305,Phoenix
+4306.0,Store_4306,Los Angeles
+4307.0,Store_4307,Los Angeles
+4308.0,Store_4308,Phoenix
+4309.0,Store_4309,Houston
+4310.0,Store_4310,Los Angeles
+4311.0,Store_4311,Houston
+4312.0,Store_4312,Houston
+4313.0,Store_4313,New York
+4314.0,Store_4314,Houston
+4315.0,Store_4315,Phoenix
+4316.0,Store_4316,Phoenix
+4317.0,Store_4317,Los Angeles
+4318.0,Store_4318,Phoenix
+4319.0,Store_4319,Chicago
+4320.0,Store_4320,Chicago
+4321.0,Store_4321,New York
+4322.0,Store_4322,Houston
+4323.0,Store_4323,Los Angeles
+4324.0,Store_4324,Phoenix
+4325.0,Store_4325,Los Angeles
+4326.0,Store_4326,Houston
+4327.0,Store_4327,Phoenix
+4328.0,Store_4328,New York
+4329.0,Store_4329,New York
+4330.0,Store_4330,Phoenix
+,Store_4331,New York
+4332.0,Store_4332,Houston
+4333.0,Store_4333,Houston
+4334.0,Store_4334,Chicago
+4335.0,Store_4335,Los Angeles
+4336.0,Store_4336,Phoenix
+4337.0,Store_4337,Phoenix
+4338.0,Store_4338,Los Angeles
+4339.0,Store_4339,New York
+4340.0,Store_4340,Phoenix
+4341.0,Store_4341,Los Angeles
+4342.0,Store_4342,Chicago
+4343.0,Store_4343,New York
+4344.0,Store_4344,Los Angeles
+4345.0,Store_4345,Chicago
+4346.0,Store_4346,Houston
+4347.0,Store_4347,New York
+4348.0,Store_4348,Phoenix
+4349.0,Store_4349,Chicago
+4350.0,Store_4350,Houston
+4351.0,Store_4351,Phoenix
+4352.0,Store_4352,Houston
+,Store_4353,Los Angeles
+4354.0,Store_4354,Los Angeles
+4355.0,Store_4355,Chicago
+4356.0,Store_4356,Chicago
+4357.0,Store_4357,Houston
+4358.0,Store_4358,Los Angeles
+4359.0,Store_4359,Phoenix
+4360.0,Store_4360,Chicago
+4361.0,Store_4361,Phoenix
+4362.0,Store_4362,Los Angeles
+4363.0,Store_4363,Houston
+4364.0,Store_4364,Chicago
+4365.0,Store_4365,New York
+4366.0,Store_4366,Los Angeles
+4367.0,Store_4367,Houston
+4368.0,Store_4368,New York
+4369.0,Store_4369,New York
+4370.0,Store_4370,Chicago
+4371.0,Store_4371,New York
+4372.0,Store_4372,Chicago
+4373.0,Store_4373,Phoenix
+4374.0,Store_4374,Phoenix
+4375.0,Store_4375,Chicago
+,Store_4376,Phoenix
+4377.0,Store_4377,Phoenix
+4378.0,Store_4378,New York
+4379.0,Store_4379,New York
+4380.0,Store_4380,Los Angeles
+4381.0,Store_4381,New York
+4382.0,Store_4382,Phoenix
+4383.0,Store_4383,New York
+4384.0,Store_4384,Chicago
+4385.0,Store_4385,Phoenix
+4386.0,Store_4386,Los Angeles
+4387.0,Store_4387,Chicago
+4388.0,Store_4388,Chicago
+4389.0,Store_4389,New York
+4390.0,Store_4390,Phoenix
+4391.0,Store_4391,Los Angeles
+4392.0,Store_4392,Houston
+4393.0,Store_4393,New York
+4394.0,Store_4394,Los Angeles
+4395.0,Store_4395,Chicago
+4396.0,Store_4396,Chicago
+4397.0,Store_4397,Houston
+,Store_4398,Chicago
+4399.0,Store_4399,Phoenix
+4400.0,Store_4400,Houston
+4401.0,Store_4401,Los Angeles
+4402.0,Store_4402,Houston
+4403.0,Store_4403,Phoenix
+4404.0,Store_4404,Chicago
+4405.0,Store_4405,Houston
+4406.0,Store_4406,Houston
+4407.0,Store_4407,Houston
+4408.0,Store_4408,Houston
+4409.0,Store_4409,Phoenix
+4410.0,Store_4410,Phoenix
+4411.0,Store_4411,Phoenix
+4412.0,Store_4412,Chicago
+4413.0,Store_4413,Houston
+4414.0,Store_4414,New York
+4415.0,Store_4415,Houston
+4416.0,Store_4416,Los Angeles
+4417.0,Store_4417,Phoenix
+4418.0,Store_4418,New York
+4419.0,Store_4419,Los Angeles
+4420.0,Store_4420,Los Angeles
+4421.0,Store_4421,New York
+4422.0,Store_4422,Chicago
+4423.0,Store_4423,Chicago
+4424.0,Store_4424,Houston
+4425.0,Store_4425,New York
+4426.0,Store_4426,Chicago
+4427.0,Store_4427,Los Angeles
+4428.0,Store_4428,Los Angeles
+4429.0,Store_4429,Phoenix
+4430.0,Store_4430,New York
+4431.0,Store_4431,Houston
+4432.0,Store_4432,Phoenix
+4433.0,Store_4433,Los Angeles
+4434.0,Store_4434,Los Angeles
+4435.0,Store_4435,Los Angeles
+4436.0,Store_4436,Phoenix
+4437.0,Store_4437,Houston
+4438.0,Store_4438,New York
+4439.0,Store_4439,Houston
+4440.0,Store_4440,Houston
+4441.0,Store_4441,Houston
+4442.0,Store_4442,Phoenix
+4443.0,Store_4443,Phoenix
+4444.0,Store_4444,Los Angeles
+4445.0,Store_4445,Houston
+,Store_4446,New York
+4447.0,Store_4447,New York
+4448.0,Store_4448,Chicago
+4449.0,Store_4449,Houston
+4450.0,Store_4450,Los Angeles
+4451.0,Store_4451,New York
+4452.0,Store_4452,Chicago
+4453.0,Store_4453,Chicago
+4454.0,Store_4454,New York
+4455.0,Store_4455,New York
+4456.0,Store_4456,Houston
+4457.0,Store_4457,New York
+4458.0,Store_4458,Houston
+4459.0,Store_4459,New York
+4460.0,Store_4460,Chicago
+4461.0,Store_4461,Los Angeles
+4462.0,Store_4462,New York
+4463.0,Store_4463,New York
+4464.0,Store_4464,Los Angeles
+4465.0,Store_4465,Chicago
+4466.0,Store_4466,Phoenix
+4467.0,Store_4467,Houston
+4468.0,Store_4468,Houston
+4469.0,Store_4469,Chicago
+4470.0,Store_4470,Phoenix
+4471.0,Store_4471,Los Angeles
+4472.0,Store_4472,Los Angeles
+4473.0,Store_4473,New York
+4474.0,Store_4474,Phoenix
+,Store_4475,Houston
+4476.0,Store_4476,Los Angeles
+,Store_4477,Chicago
+4478.0,Store_4478,Los Angeles
+4479.0,Store_4479,Los Angeles
+4480.0,Store_4480,New York
+4481.0,Store_4481,Los Angeles
+4482.0,Store_4482,Phoenix
+4483.0,Store_4483,Houston
+4484.0,Store_4484,New York
+4485.0,Store_4485,Houston
+4486.0,Store_4486,Los Angeles
+4487.0,Store_4487,Los Angeles
+4488.0,Store_4488,Los Angeles
+4489.0,Store_4489,Chicago
+,Store_4490,Los Angeles
+4491.0,Store_4491,New York
+4492.0,Store_4492,Phoenix
+4493.0,Store_4493,Los Angeles
+4494.0,Store_4494,Houston
+4495.0,Store_4495,Houston
+4496.0,Store_4496,Houston
+4497.0,Store_4497,Houston
+4498.0,Store_4498,Los Angeles
+4499.0,Store_4499,Chicago
+4500.0,Store_4500,New York
+4501.0,Store_4501,New York
+4502.0,Store_4502,Houston
+4503.0,Store_4503,Houston
+4504.0,Store_4504,Chicago
+4505.0,Store_4505,Houston
+4506.0,Store_4506,Los Angeles
+4507.0,Store_4507,Los Angeles
+4508.0,Store_4508,New York
+4509.0,Store_4509,Los Angeles
+4510.0,Store_4510,Chicago
+4511.0,Store_4511,Chicago
+4512.0,Store_4512,Phoenix
+4513.0,Store_4513,Chicago
+4514.0,Store_4514,Houston
+4515.0,Store_4515,Chicago
+4516.0,Store_4516,Los Angeles
+4517.0,Store_4517,New York
+4518.0,Store_4518,New York
+4519.0,Store_4519,Houston
+4520.0,Store_4520,Houston
+4521.0,Store_4521,Phoenix
+4522.0,Store_4522,Houston
+4523.0,Store_4523,Los Angeles
+4524.0,Store_4524,Los Angeles
+4525.0,Store_4525,Los Angeles
+4526.0,Store_4526,New York
+4527.0,Store_4527,Chicago
+4528.0,Store_4528,Los Angeles
+4529.0,Store_4529,New York
+4530.0,Store_4530,Los Angeles
+4531.0,Store_4531,Phoenix
+4532.0,Store_4532,New York
+4533.0,Store_4533,Phoenix
+4534.0,Store_4534,Chicago
+4535.0,Store_4535,Chicago
+4536.0,Store_4536,Phoenix
+4537.0,Store_4537,Houston
+4538.0,Store_4538,Houston
+4539.0,Store_4539,New York
+4540.0,Store_4540,Phoenix
+4541.0,Store_4541,Houston
+4542.0,Store_4542,Phoenix
+4543.0,Store_4543,New York
+4544.0,Store_4544,New York
+4545.0,Store_4545,New York
+4546.0,Store_4546,New York
+4547.0,Store_4547,Los Angeles
+4548.0,Store_4548,Houston
+4549.0,Store_4549,Los Angeles
+4550.0,Store_4550,Chicago
+4551.0,Store_4551,Chicago
+4552.0,Store_4552,Houston
+,Store_4553,New York
+4554.0,Store_4554,Houston
+4555.0,Store_4555,Los Angeles
+4556.0,Store_4556,Los Angeles
+4557.0,Store_4557,Los Angeles
+4558.0,Store_4558,Phoenix
+4559.0,Store_4559,Houston
+4560.0,Store_4560,Chicago
+4561.0,Store_4561,Los Angeles
+4562.0,Store_4562,Los Angeles
+4563.0,Store_4563,Phoenix
+4564.0,Store_4564,Los Angeles
+,Store_4565,Chicago
+4566.0,Store_4566,Los Angeles
+4567.0,Store_4567,Houston
+4568.0,Store_4568,New York
+4569.0,Store_4569,Los Angeles
+4570.0,Store_4570,Los Angeles
+4571.0,Store_4571,Phoenix
+,Store_4572,Houston
+4573.0,Store_4573,Phoenix
+4574.0,Store_4574,Chicago
+4575.0,Store_4575,Phoenix
+4576.0,Store_4576,Los Angeles
+4577.0,Store_4577,Phoenix
+,Store_4578,Los Angeles
+4579.0,Store_4579,Chicago
+4580.0,Store_4580,Phoenix
+4581.0,Store_4581,Los Angeles
+4582.0,Store_4582,New York
+4583.0,Store_4583,New York
+4584.0,Store_4584,New York
+4585.0,Store_4585,Houston
+4586.0,Store_4586,Chicago
+4587.0,Store_4587,Houston
+4588.0,Store_4588,New York
+4589.0,Store_4589,New York
+4590.0,Store_4590,Chicago
+4591.0,Store_4591,Phoenix
+4592.0,Store_4592,Phoenix
+4593.0,Store_4593,New York
+4594.0,Store_4594,New York
+4595.0,Store_4595,Houston
+4596.0,Store_4596,Chicago
+4597.0,Store_4597,Houston
+4598.0,Store_4598,Houston
+4599.0,Store_4599,Houston
+4600.0,Store_4600,Houston
+4601.0,Store_4601,Phoenix
+4602.0,Store_4602,Phoenix
+4603.0,Store_4603,Houston
+4604.0,Store_4604,Phoenix
+4605.0,Store_4605,Chicago
+4606.0,Store_4606,Houston
+4607.0,Store_4607,Phoenix
+4608.0,Store_4608,Phoenix
+4609.0,Store_4609,New York
+4610.0,Store_4610,Los Angeles
+4611.0,Store_4611,Phoenix
+4612.0,Store_4612,Chicago
+4613.0,Store_4613,New York
+4614.0,Store_4614,New York
+4615.0,Store_4615,Phoenix
+,Store_4616,New York
+4617.0,Store_4617,Phoenix
+4618.0,Store_4618,Los Angeles
+4619.0,Store_4619,New York
+4620.0,Store_4620,Phoenix
+4621.0,Store_4621,New York
+4622.0,Store_4622,Chicago
+4623.0,Store_4623,Houston
+4624.0,Store_4624,Los Angeles
+4625.0,Store_4625,Los Angeles
+4626.0,Store_4626,Chicago
+4627.0,Store_4627,New York
+4628.0,Store_4628,Los Angeles
+4629.0,Store_4629,New York
+4630.0,Store_4630,Houston
+4631.0,Store_4631,Phoenix
+4632.0,Store_4632,Chicago
+,Store_4633,Phoenix
+4634.0,Store_4634,Houston
+,Store_4635,Chicago
+4636.0,Store_4636,New York
+4637.0,Store_4637,Houston
+4638.0,Store_4638,Los Angeles
+4639.0,Store_4639,Phoenix
+4640.0,Store_4640,Houston
+4641.0,Store_4641,Los Angeles
+4642.0,Store_4642,Chicago
+4643.0,Store_4643,Los Angeles
+4644.0,Store_4644,New York
+4645.0,Store_4645,Los Angeles
+4646.0,Store_4646,Chicago
+,Store_4647,Phoenix
+4648.0,Store_4648,Chicago
+4649.0,Store_4649,Chicago
+4650.0,Store_4650,New York
+4651.0,Store_4651,Chicago
+4652.0,Store_4652,Los Angeles
+4653.0,Store_4653,New York
+4654.0,Store_4654,New York
+4655.0,Store_4655,Los Angeles
+4656.0,Store_4656,Los Angeles
+4657.0,Store_4657,Chicago
+,Store_4658,Phoenix
+4659.0,Store_4659,Houston
+4660.0,Store_4660,Chicago
+4661.0,Store_4661,New York
+4662.0,Store_4662,New York
+4663.0,Store_4663,Houston
+4664.0,Store_4664,New York
+4665.0,Store_4665,Chicago
+4666.0,Store_4666,New York
+4667.0,Store_4667,Chicago
+,Store_4668,Phoenix
+4669.0,Store_4669,Chicago
+4670.0,Store_4670,Chicago
+4671.0,Store_4671,Houston
+4672.0,Store_4672,Houston
+4673.0,Store_4673,Chicago
+4674.0,Store_4674,Chicago
+4675.0,Store_4675,Phoenix
+4676.0,Store_4676,Los Angeles
+4677.0,Store_4677,Houston
+4678.0,Store_4678,New York
+4679.0,Store_4679,Los Angeles
+4680.0,Store_4680,New York
+4681.0,Store_4681,Phoenix
+4682.0,Store_4682,Los Angeles
+4683.0,Store_4683,Houston
+4684.0,Store_4684,Los Angeles
+4685.0,Store_4685,New York
+4686.0,Store_4686,Houston
+4687.0,Store_4687,New York
+4688.0,Store_4688,Chicago
+4689.0,Store_4689,Phoenix
+4690.0,Store_4690,Phoenix
+4691.0,Store_4691,Houston
+4692.0,Store_4692,Los Angeles
+4693.0,Store_4693,Chicago
+4694.0,Store_4694,Phoenix
+4695.0,Store_4695,New York
+4696.0,Store_4696,New York
+4697.0,Store_4697,Phoenix
+4698.0,Store_4698,Houston
+4699.0,Store_4699,Los Angeles
+4700.0,Store_4700,Phoenix
+4701.0,Store_4701,Houston
+4702.0,Store_4702,Houston
+4703.0,Store_4703,Chicago
+4704.0,Store_4704,Los Angeles
+4705.0,Store_4705,Chicago
+4706.0,Store_4706,Chicago
+4707.0,Store_4707,New York
+4708.0,Store_4708,Phoenix
+4709.0,Store_4709,Los Angeles
+4710.0,Store_4710,Chicago
+,Store_4711,Houston
+4712.0,Store_4712,Houston
+4713.0,Store_4713,Chicago
+4714.0,Store_4714,Los Angeles
+4715.0,Store_4715,Los Angeles
+4716.0,Store_4716,Chicago
+4717.0,Store_4717,New York
+4718.0,Store_4718,Houston
+4719.0,Store_4719,Los Angeles
+4720.0,Store_4720,Houston
+4721.0,Store_4721,Chicago
+4722.0,Store_4722,Los Angeles
+4723.0,Store_4723,New York
+4724.0,Store_4724,Chicago
+4725.0,Store_4725,Chicago
+4726.0,Store_4726,Chicago
+4727.0,Store_4727,Los Angeles
+4728.0,Store_4728,Phoenix
+4729.0,Store_4729,New York
+4730.0,Store_4730,Houston
+4731.0,Store_4731,New York
+4732.0,Store_4732,New York
+4733.0,Store_4733,Los Angeles
+4734.0,Store_4734,New York
+4735.0,Store_4735,Houston
+4736.0,Store_4736,Chicago
+,Store_4737,Phoenix
+4738.0,Store_4738,New York
+4739.0,Store_4739,Los Angeles
+4740.0,Store_4740,Houston
+4741.0,Store_4741,Phoenix
+4742.0,Store_4742,Chicago
+4743.0,Store_4743,Los Angeles
+,Store_4744,New York
+4745.0,Store_4745,Los Angeles
+4746.0,Store_4746,Phoenix
+4747.0,Store_4747,Phoenix
+4748.0,Store_4748,Chicago
+4749.0,Store_4749,Los Angeles
+4750.0,Store_4750,Chicago
+4751.0,Store_4751,New York
+4752.0,Store_4752,Chicago
+4753.0,Store_4753,New York
+4754.0,Store_4754,Phoenix
+4755.0,Store_4755,Los Angeles
+4756.0,Store_4756,Phoenix
+4757.0,Store_4757,Los Angeles
+4758.0,Store_4758,Phoenix
+4759.0,Store_4759,Houston
+4760.0,Store_4760,Phoenix
+4761.0,Store_4761,Houston
+,Store_4762,Houston
+4763.0,Store_4763,Houston
+4764.0,Store_4764,Houston
+4765.0,Store_4765,Chicago
+4766.0,Store_4766,Chicago
+4767.0,Store_4767,New York
+4768.0,Store_4768,Chicago
+4769.0,Store_4769,Houston
+4770.0,Store_4770,Phoenix
+4771.0,Store_4771,Los Angeles
+4772.0,Store_4772,New York
+4773.0,Store_4773,Los Angeles
+4774.0,Store_4774,New York
+4775.0,Store_4775,Los Angeles
+4776.0,Store_4776,Phoenix
+4777.0,Store_4777,Houston
+4778.0,Store_4778,New York
+4779.0,Store_4779,New York
+4780.0,Store_4780,Los Angeles
+4781.0,Store_4781,Chicago
+4782.0,Store_4782,Los Angeles
+4783.0,Store_4783,Los Angeles
+4784.0,Store_4784,Chicago
+,Store_4785,New York
+4786.0,Store_4786,Los Angeles
+4787.0,Store_4787,Chicago
+4788.0,Store_4788,Chicago
+4789.0,Store_4789,New York
+4790.0,Store_4790,Chicago
+4791.0,Store_4791,New York
+4792.0,Store_4792,New York
+4793.0,Store_4793,Houston
+4794.0,Store_4794,Los Angeles
+4795.0,Store_4795,Los Angeles
+4796.0,Store_4796,Los Angeles
+4797.0,Store_4797,Houston
+4798.0,Store_4798,Phoenix
+4799.0,Store_4799,Los Angeles
+4800.0,Store_4800,Los Angeles
+4801.0,Store_4801,New York
+4802.0,Store_4802,Houston
+4803.0,Store_4803,Phoenix
+4804.0,Store_4804,New York
+,Store_4805,Phoenix
+4806.0,Store_4806,Phoenix
+4807.0,Store_4807,Chicago
+4808.0,Store_4808,New York
+4809.0,Store_4809,Phoenix
+4810.0,Store_4810,Phoenix
+4811.0,Store_4811,Houston
+4812.0,Store_4812,New York
+4813.0,Store_4813,Phoenix
+4814.0,Store_4814,Houston
+4815.0,Store_4815,Houston
+4816.0,Store_4816,Houston
+4817.0,Store_4817,Chicago
+4818.0,Store_4818,Chicago
+4819.0,Store_4819,Houston
+4820.0,Store_4820,Los Angeles
+,Store_4821,Phoenix
+4822.0,Store_4822,Houston
+4823.0,Store_4823,Chicago
+4824.0,Store_4824,Chicago
+4825.0,Store_4825,Houston
+4826.0,Store_4826,Chicago
+4827.0,Store_4827,Los Angeles
+4828.0,Store_4828,Houston
+4829.0,Store_4829,Los Angeles
+4830.0,Store_4830,Los Angeles
+4831.0,Store_4831,Phoenix
+4832.0,Store_4832,Houston
+4833.0,Store_4833,Phoenix
+,Store_4834,Phoenix
+4835.0,Store_4835,Phoenix
+4836.0,Store_4836,Houston
+4837.0,Store_4837,New York
+4838.0,Store_4838,Los Angeles
+4839.0,Store_4839,Phoenix
+4840.0,Store_4840,Phoenix
+4841.0,Store_4841,Los Angeles
+4842.0,Store_4842,Houston
+4843.0,Store_4843,New York
+4844.0,Store_4844,Los Angeles
+4845.0,Store_4845,New York
+4846.0,Store_4846,Chicago
+4847.0,Store_4847,Los Angeles
+4848.0,Store_4848,Los Angeles
+4849.0,Store_4849,Chicago
+4850.0,Store_4850,Phoenix
+4851.0,Store_4851,New York
+4852.0,Store_4852,Houston
+4853.0,Store_4853,New York
+4854.0,Store_4854,Houston
+,Store_4855,Los Angeles
+4856.0,Store_4856,Chicago
+4857.0,Store_4857,Phoenix
+4858.0,Store_4858,Chicago
+4859.0,Store_4859,Phoenix
+4860.0,Store_4860,Chicago
+4861.0,Store_4861,Phoenix
+4862.0,Store_4862,New York
+4863.0,Store_4863,New York
+4864.0,Store_4864,Phoenix
+4865.0,Store_4865,New York
+4866.0,Store_4866,Houston
+4867.0,Store_4867,Los Angeles
+4868.0,Store_4868,Los Angeles
+4869.0,Store_4869,New York
+4870.0,Store_4870,Chicago
+4871.0,Store_4871,Los Angeles
+4872.0,Store_4872,Phoenix
+4873.0,Store_4873,Chicago
+4874.0,Store_4874,Houston
+4875.0,Store_4875,Chicago
+4876.0,Store_4876,New York
+4877.0,Store_4877,New York
+4878.0,Store_4878,Chicago
+4879.0,Store_4879,New York
+4880.0,Store_4880,Houston
+4881.0,Store_4881,Houston
+4882.0,Store_4882,Houston
+4883.0,Store_4883,Houston
+4884.0,Store_4884,Houston
+4885.0,Store_4885,Los Angeles
+4886.0,Store_4886,Houston
+4887.0,Store_4887,New York
+4888.0,Store_4888,Houston
+4889.0,Store_4889,New York
+4890.0,Store_4890,Chicago
+4891.0,Store_4891,Los Angeles
+4892.0,Store_4892,Phoenix
+4893.0,Store_4893,Chicago
+4894.0,Store_4894,Phoenix
+4895.0,Store_4895,Phoenix
+4896.0,Store_4896,Phoenix
+,Store_4897,Houston
+4898.0,Store_4898,Chicago
+4899.0,Store_4899,Los Angeles
+4900.0,Store_4900,Los Angeles
+4901.0,Store_4901,Los Angeles
+4902.0,Store_4902,New York
+4903.0,Store_4903,Phoenix
+4904.0,Store_4904,Phoenix
+4905.0,Store_4905,Chicago
+4906.0,Store_4906,Phoenix
+4907.0,Store_4907,New York
+4908.0,Store_4908,Phoenix
+4909.0,Store_4909,Chicago
+4910.0,Store_4910,Los Angeles
+4911.0,Store_4911,New York
+4912.0,Store_4912,New York
+4913.0,Store_4913,Phoenix
+4914.0,Store_4914,Phoenix
+4915.0,Store_4915,Chicago
+4916.0,Store_4916,New York
+4917.0,Store_4917,Chicago
+,Store_4918,Houston
+4919.0,Store_4919,Phoenix
+4920.0,Store_4920,New York
+4921.0,Store_4921,Houston
+4922.0,Store_4922,Houston
+4923.0,Store_4923,Houston
+4924.0,Store_4924,Chicago
+4925.0,Store_4925,Los Angeles
+4926.0,Store_4926,Los Angeles
+4927.0,Store_4927,Phoenix
+4928.0,Store_4928,New York
+4929.0,Store_4929,Chicago
+4930.0,Store_4930,Houston
+4931.0,Store_4931,Los Angeles
+4932.0,Store_4932,Los Angeles
+4933.0,Store_4933,Phoenix
+4934.0,Store_4934,Phoenix
+4935.0,Store_4935,New York
+4936.0,Store_4936,Los Angeles
+4937.0,Store_4937,Houston
+4938.0,Store_4938,Phoenix
+4939.0,Store_4939,Houston
+4940.0,Store_4940,Chicago
+4941.0,Store_4941,Phoenix
+4942.0,Store_4942,Houston
+,Store_4943,Phoenix
+4944.0,Store_4944,Chicago
+4945.0,Store_4945,Chicago
+4946.0,Store_4946,Houston
+4947.0,Store_4947,New York
+4948.0,Store_4948,Phoenix
+4949.0,Store_4949,Chicago
+4950.0,Store_4950,Phoenix
+4951.0,Store_4951,Phoenix
+4952.0,Store_4952,Los Angeles
+4953.0,Store_4953,Chicago
+4954.0,Store_4954,Phoenix
+,Store_4955,Houston
+4956.0,Store_4956,Los Angeles
+4957.0,Store_4957,Houston
+,Store_4958,New York
+4959.0,Store_4959,Chicago
+4960.0,Store_4960,Phoenix
+4961.0,Store_4961,Houston
+4962.0,Store_4962,Los Angeles
+4963.0,Store_4963,Phoenix
+4964.0,Store_4964,Phoenix
+4965.0,Store_4965,Phoenix
+,Store_4966,Chicago
+4967.0,Store_4967,Chicago
+4968.0,Store_4968,Houston
+4969.0,Store_4969,Chicago
+4970.0,Store_4970,Chicago
+4971.0,Store_4971,Phoenix
+4972.0,Store_4972,New York
+4973.0,Store_4973,Houston
+4974.0,Store_4974,Houston
+4975.0,Store_4975,Phoenix
+4976.0,Store_4976,Phoenix
+4977.0,Store_4977,New York
+4978.0,Store_4978,Chicago
+4979.0,Store_4979,Chicago
+4980.0,Store_4980,Los Angeles
+4981.0,Store_4981,Phoenix
+4982.0,Store_4982,New York
+4983.0,Store_4983,Chicago
+4984.0,Store_4984,New York
+4985.0,Store_4985,New York
+4986.0,Store_4986,Houston
+4987.0,Store_4987,Chicago
+4988.0,Store_4988,Houston
+4989.0,Store_4989,New York
+,Store_4990,Los Angeles
+4991.0,Store_4991,Los Angeles
+4992.0,Store_4992,Chicago
+4993.0,Store_4993,New York
+4994.0,Store_4994,Houston
+4995.0,Store_4995,Chicago
+4996.0,Store_4996,Phoenix
+4997.0,Store_4997,Los Angeles
+4998.0,Store_4998,Houston
+4999.0,Store_4999,New York
+5000.0,Store_5000,Los Angeles
+1275.0,Store_1275,Chicago
+3258.0,Store_3258,New York
+1932.0,Store_1932,Los Angeles
+1727.0,Store_1727,Los Angeles
+773.0,Store_773,Los Angeles
+3965.0,Store_3965,Houston
+4963.0,Store_4963,Phoenix
+2899.0,Store_2899,Houston
+4920.0,Store_4920,New York
+1199.0,Store_1199,Phoenix
+2579.0,Store_2579,Houston
+3337.0,Store_3337,Chicago
+235.0,Store_235,Los Angeles
+3973.0,Store_3973,New York
+2259.0,Store_2259,Chicago
+1650.0,Store_1650,Chicago
+3240.0,Store_3240,Phoenix
+440.0,Store_440,Los Angeles
+1902.0,Store_1902,Houston
+4077.0,Store_4077,Los Angeles
